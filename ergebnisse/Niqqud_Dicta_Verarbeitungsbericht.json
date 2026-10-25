@@ -1,0 +1,1089 @@
+{
+  "provider": "Dicta Nakdan Pro",
+  "api": "https://nakdan-u2-1a.loadbalancer.dicta.org.il/api",
+  "genre": "rabbinic",
+  "source_sha256": "d2bea080b195aa8f7ae5ba5cfcf4a1b153631e9b54463478c7a9a7d524b855ba",
+  "groups": [
+    {
+      "id": "title",
+      "added_marks": 20,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "transcription_header",
+      "added_marks": 339,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p001",
+      "added_marks": 343,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p003",
+      "added_marks": 1074,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p004",
+      "added_marks": 1177,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p005",
+      "added_marks": 1106,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p006",
+      "added_marks": 861,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p007",
+      "added_marks": 991,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p008",
+      "added_marks": 962,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p009",
+      "added_marks": 777,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p010",
+      "added_marks": 452,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p011",
+      "added_marks": 806,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p012",
+      "added_marks": 701,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p013",
+      "added_marks": 111,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p014",
+      "added_marks": 94,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p015",
+      "added_marks": 129,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p016",
+      "added_marks": 531,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p017",
+      "added_marks": 584,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p018",
+      "added_marks": 950,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p019",
+      "added_marks": 700,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p020",
+      "added_marks": 108,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p021",
+      "added_marks": 94,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p022",
+      "added_marks": 223,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p023",
+      "added_marks": 452,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p024",
+      "added_marks": 901,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p025",
+      "added_marks": 535,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p026",
+      "added_marks": 377,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p027",
+      "added_marks": 108,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p028",
+      "added_marks": 146,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p029",
+      "added_marks": 544,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p030",
+      "added_marks": 331,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p031",
+      "added_marks": 222,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p032",
+      "added_marks": 163,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p033",
+      "added_marks": 80,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p034",
+      "added_marks": 514,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p035",
+      "added_marks": 273,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p036",
+      "added_marks": 109,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p037",
+      "added_marks": 146,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p038",
+      "added_marks": 518,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p039",
+      "added_marks": 256,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p040",
+      "added_marks": 105,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p041",
+      "added_marks": 117,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p042",
+      "added_marks": 419,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p043",
+      "added_marks": 503,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p044",
+      "added_marks": 141,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p045",
+      "added_marks": 129,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p046",
+      "added_marks": 249,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p047",
+      "added_marks": 511,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p048",
+      "added_marks": 279,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p049",
+      "added_marks": 163,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p050",
+      "added_marks": 92,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p051",
+      "added_marks": 1474,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p052",
+      "added_marks": 294,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p053",
+      "added_marks": 105,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p054",
+      "added_marks": 117,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p055",
+      "added_marks": 237,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p056",
+      "added_marks": 459,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p057",
+      "added_marks": 225,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p058",
+      "added_marks": 117,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p059",
+      "added_marks": 122,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p060",
+      "added_marks": 521,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p061",
+      "added_marks": 279,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p062",
+      "added_marks": 95,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p063",
+      "added_marks": 129,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p064",
+      "added_marks": 427,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p065",
+      "added_marks": 538,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p066",
+      "added_marks": 227,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p067",
+      "added_marks": 163,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p068",
+      "added_marks": 92,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p069",
+      "added_marks": 576,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p070",
+      "added_marks": 413,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p071",
+      "added_marks": 146,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p072",
+      "added_marks": 138,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p073",
+      "added_marks": 535,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p074",
+      "added_marks": 284,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p075",
+      "added_marks": 146,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p076",
+      "added_marks": 138,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p077",
+      "added_marks": 483,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p078",
+      "added_marks": 292,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p079",
+      "added_marks": 117,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p080",
+      "added_marks": 163,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p081",
+      "added_marks": 525,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p082",
+      "added_marks": 304,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p083",
+      "added_marks": 117,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p084",
+      "added_marks": 163,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p085",
+      "added_marks": 522,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p086",
+      "added_marks": 299,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p087",
+      "added_marks": 117,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p088",
+      "added_marks": 163,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p089",
+      "added_marks": 520,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p090",
+      "added_marks": 406,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p091",
+      "added_marks": 559,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p092",
+      "added_marks": 127,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p093",
+      "added_marks": 111,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p094",
+      "added_marks": 1498,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p095",
+      "added_marks": 268,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p096",
+      "added_marks": 227,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p097",
+      "added_marks": 964,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p098",
+      "added_marks": 365,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p099",
+      "added_marks": 150,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p100",
+      "added_marks": 180,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p101",
+      "added_marks": 234,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p102",
+      "added_marks": 497,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p103",
+      "added_marks": 870,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p104",
+      "added_marks": 767,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p105",
+      "added_marks": 700,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p106",
+      "added_marks": 1476,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p107",
+      "added_marks": 1309,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p108",
+      "added_marks": 1423,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p109",
+      "added_marks": 1324,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p110",
+      "added_marks": 1308,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p111",
+      "added_marks": 150,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p112",
+      "added_marks": 180,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p113",
+      "added_marks": 413,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p114",
+      "added_marks": 387,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p115",
+      "added_marks": 780,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p116",
+      "added_marks": 168,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p117",
+      "added_marks": 634,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p118",
+      "added_marks": 172,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p119",
+      "added_marks": 308,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p120",
+      "added_marks": 299,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p121",
+      "added_marks": 504,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p122",
+      "added_marks": 780,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p123",
+      "added_marks": 706,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p124",
+      "added_marks": 335,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p125",
+      "added_marks": 467,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p126",
+      "added_marks": 198,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p127",
+      "added_marks": 1317,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p128",
+      "added_marks": 1295,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p129",
+      "added_marks": 321,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p130",
+      "added_marks": 509,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p131",
+      "added_marks": 583,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p132",
+      "added_marks": 524,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p133",
+      "added_marks": 590,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p134",
+      "added_marks": 408,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p135",
+      "added_marks": 368,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p136",
+      "added_marks": 274,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p137",
+      "added_marks": 453,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p138",
+      "added_marks": 484,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p139",
+      "added_marks": 584,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p140",
+      "added_marks": 1093,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p141",
+      "added_marks": 459,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p142",
+      "added_marks": 462,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p143",
+      "added_marks": 589,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p144",
+      "added_marks": 278,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p145",
+      "added_marks": 805,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p146",
+      "added_marks": 762,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p147",
+      "added_marks": 234,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p148",
+      "added_marks": 210,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p149",
+      "added_marks": 668,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p150",
+      "added_marks": 544,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p151",
+      "added_marks": 510,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p152",
+      "added_marks": 688,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p153",
+      "added_marks": 825,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p154",
+      "added_marks": 521,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p155",
+      "added_marks": 313,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p156",
+      "added_marks": 579,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p157",
+      "added_marks": 510,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p158",
+      "added_marks": 527,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p159",
+      "added_marks": 562,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p160",
+      "added_marks": 331,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p161",
+      "added_marks": 462,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p162",
+      "added_marks": 769,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p163",
+      "added_marks": 710,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p164",
+      "added_marks": 633,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p165",
+      "added_marks": 619,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p166",
+      "added_marks": 482,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p167",
+      "added_marks": 560,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p168",
+      "added_marks": 1053,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p169",
+      "added_marks": 188,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p170",
+      "added_marks": 212,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p171",
+      "added_marks": 439,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p172",
+      "added_marks": 431,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p173",
+      "added_marks": 522,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p174",
+      "added_marks": 843,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p175",
+      "added_marks": 155,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p176",
+      "added_marks": 314,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    },
+    {
+      "id": "HB21376-p177",
+      "added_marks": 191,
+      "unmapped_hebrew_characters": 0,
+      "rejected_tokens": 0
+    }
+  ],
+  "exceptions": [],
+  "preserved_shem_elements": 10963,
+  "added_marks": 82305,
+  "output": "Siddur_HaRashash_Teil_1_HB21376_Niqqud_Tags_Vollstaendig_Automatisch.txt",
+  "validation": "All source characters except added Hebrew combining marks are identical before provenance update; all shem text preserved.",
+  "unmapped_hebrew_characters": 0,
+  "independent_validation": {
+    "source_elements": 17966,
+    "pages": 176,
+    "shem_elements_unchanged": 10963,
+    "existing_marks_preserved": true,
+    "letters_punctuation_and_tag_structure_preserved": true
+  }
+}
