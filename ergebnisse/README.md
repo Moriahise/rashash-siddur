@@ -25,3 +25,16 @@ Alle 176 Textseiten wurden mit Dicta Nakdan Pro (`rabbinic`) verarbeitet. Bereit
 - [Verarbeitungsbericht](Niqqud_Dicta_Verarbeitungsbericht.json)
 
 Das bisherige Gesamtpaket bleibt als ursprüngliche Prüffassung erhalten.
+
+## Kontextprüfung aller ursprünglichen Unsicherheitsmarkierungen
+
+Alle 150 ursprünglichen `[?]`-Markierungen wurden einzeln im Zusammenhang geprüft (140 Kontexte). Die neue Fassung enthält 26 Textkorrekturen in 20 Kontexten. Sieben Markierungen konnten entfallen; 143 bleiben als nicht hinreichend gesichert erhalten. Ausgewählte Stellen wurden zusätzlich mit den Scans verglichen. Dies ist keine vollständige fachliche Niqqud-Prüfung.
+
+- [Neue Prüffassung und vollständiges Protokoll als ZIP herunterladen](https://github.com/Moriahise/rashash-siddur/raw/refs/heads/main/ergebnisse/Siddur_HaRashash_Teil_1_HB21376_Kontextpruefung.zip)
+- [Kontextgeprüfte Textdatei mit XML-Tags](Siddur_HaRashash_Teil_1_HB21376_Niqqud_Tags_Kontextgeprueft.txt)
+- [Vollständiges Prüf- und Änderungsprotokoll](Kontextpruefung_Protokoll.md)
+- [Protokoll mit Prüfsummen als JSON](Kontextpruefung_Protokoll.json)
+- [Alle 150 ursprünglichen Markierungen als CSV](Kontextpruefung_Markierungen.csv)
+- [Methodik und Hinweise](Kontextpruefung_Hinweise.md)
+
+Die ursprüngliche automatische Niqqud-Fassung bleibt unverändert verfügbar. In der neuen Prüffassung sind sämtliche Seiten, XML-Tags und IDs erhalten; kein Text innerhalb der vorhandenen `<shem>`-Elemente wurde geändert.
