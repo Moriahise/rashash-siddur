@@ -1,0 +1,11 @@
+Prüfzusammenfassung — Siddur HaRashash Teil 1, HB21376
+
+Umfang: 177 Scanbilder, 176 Textseiten. Die Stempelseite PDF 2 ist ausgelassen.
+Alle Scanbilder wurden in zwei überlappenden Streifen visuell durchgesehen; bei Bedarf wurden Details vergrößert. Es wurde keine OCR ausgeführt.
+Grundlage der Korrekturen waren die eingereichte getaggte Abschrift, der Prüfbericht und die Scanbilder.
+
+Bearbeitet: Raschi-Verwechslungen, Gebetstext ohne Niqqud, Namens- und Vokaltabellen, Wiederholungen, Seitenübergänge, mehrseitige Fußnoten und die gedruckte Fehlerliste. Die fehlende Stelle „מחזירן למכתשת בערב יום הכפורים“ und der Anschluss von Jesaja 33,2 wurden ergänzt. Der Gebetstext von Ana beKoach ist in der üblichen Wortfolge wiedergegeben; Tabellenbeschriftungen ordnen die zugehörigen Kawwanot zu.
+
+Verbleibend: 150 mit [?] gekennzeichnete Lesungen. Bei einer Markierung am Ende eines längeren Absatzes können mehrere Wörter und Abkürzungen dieses Absatzes unsicher sein. Sämtliche Markierungen mit Folio, PDF-Seite und Textumgebung stehen in Unsichere_Lesungen_Teil_1_HB21376.txt. Die Fassung ist daher keine vollständig gesicherte kritische Edition.
+
+Formale Kontrolle: 176 Seitenköpfe in Scanreihenfolge; keine @@-Markierungen; Tabellenanfang und Tabellenende ausgeglichen; eckige Klammern ausgeglichen; UTF-8.
