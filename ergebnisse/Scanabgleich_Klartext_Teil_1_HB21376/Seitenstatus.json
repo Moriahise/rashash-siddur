@@ -1,0 +1,1772 @@
+[
+  {
+    "pdf": 1,
+    "schrift": "keine_raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 8,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Titelblatt in Quadratschrift; Namen und Verlagsvermerk gegen Bild angesehen. Stark beschädigte neue OCR nicht als Ersatz verwenden."
+  },
+  {
+    "pdf": 2,
+    "schrift": "stempelseite",
+    "korrekturen": 0,
+    "ocr_differenzen": 1,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Stempelseite; im transkribierten Text absichtlich ausgelassen."
+  },
+  {
+    "pdf": 3,
+    "schrift": "keine_raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 28,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Haskamot in Quadratschrift. Neue OCR stark beschädigt; keine daraus abgeleiteten Eingriffe."
+  },
+  {
+    "pdf": 4,
+    "schrift": "keine_raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 30,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Haskamot und Hejlprin-Abschnitt in Quadratschrift; Bildübersicht kontrolliert, kein Rashi-Fließtext."
+  },
+  {
+    "pdf": 5,
+    "schrift": "keine_raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 14,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortsetzung der Haskamot in Quadratschrift; Namen und Schlussunterschriften gesehen."
+  },
+  {
+    "pdf": 6,
+    "schrift": "raschi",
+    "korrekturen": 19,
+    "ocr_differenzen": 63,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": true,
+    "beobachtung": "Gesamte Rashi-Übersicht zu Gebetszeiten und Festtagen im Bild angesehen. Mehrere echte Wort-/Stufenfehler außerhalb bisheriger [?]-Stellen. Nicht eindeutig gelesene Formeln bleiben offen."
+  },
+  {
+    "pdf": 7,
+    "schrift": "raschi",
+    "korrekturen": 11,
+    "ocr_differenzen": 66,
+    "unsicherheitszeichen": 3,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": true,
+    "beobachtung": "Rashi-Übersicht der Festtage und Aufstiege angesehen; fehlerhafte ältere Kontextkorrektur und weitere sachlich relevante Lesefehler erkannt. Komplexe restliche Sätze nicht frei rekonstruieren."
+  },
+  {
+    "pdf": 8,
+    "schrift": "raschi",
+    "korrekturen": 6,
+    "ocr_differenzen": 64,
+    "unsicherheitszeichen": 4,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Rashi-Übersicht, hundert Berachot und Netilat Jadajim angesehen. Mehrere falsche gewöhnliche Wörter im bisherigen Text; untere Zahlen-/Namenfolge weiterhin schwer lesbar."
+  },
+  {
+    "pdf": 9,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 87,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Einleitungsabsatz, וכה יעשה, Netila-Anweisung und Fußnotenverweis angesehen. Neue OCR verstümmelt viele Fachabkürzungen; der lange unsichere Anfang bleibt offen."
+  },
+  {
+    "pdf": 10,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 39,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Anweisungen für sechs Güsse und drei Reibungen geprüft. Der Anschluss vor שפשוף א' lautet ואח\"כ ישפשף, nicht וחו\"ב שטפים."
+  },
+  {
+    "pdf": 11,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 13,
+    "unsicherheitszeichen": 3,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Rashi-Einleitung über Ibbur und Beginn der Fußnote kontrolliert; Rest der Seite sind Namen-/Vokaltabellen. Achtung: bisheriger Text zieht die physisch über PDF 11–14 laufende Fußnote unter PDF 11 zusammen."
+  },
+  {
+    "pdf": 12,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 35,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Hebung der Hände und Beracha-Vorspann kontrolliert. Fußnotenfortsetzung unten gehört zum unter PDF 11 zusammengezogenen Text; nicht als fehlender neuer Absatz doppelt ergänzen."
+  },
+  {
+    "pdf": 13,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 18,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Anweisungen bei אתה und zu Malchut/Tewuna angesehen. Fußnotenfortsetzung unten gehört zur übergreifenden Fußnote PDF 11–14; unklare Stufenabkürzung bleibt offen."
+  },
+  {
+    "pdf": 14,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 10,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Mochin-/Miluim-Anweisungen und ausführlicher Fußnotenabschluss unten angesehen. Die große Differenz entsteht teilweise durch die bisherige Zusammenziehung unter PDF 11; genaue Zitierstellen weiterhin ungesichert."
+  },
+  {
+    "pdf": 15,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 18,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Oberer Vorspann zu zwei Zelem-Mochin und kleine Zuordnungen bei אלהינו kontrolliert. Namen-Grafik nicht aus linearer OCR normalisieren."
+  },
+  {
+    "pdf": 16,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 30,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Vorspann und Anweisungen bei אשר/קדשנו sowie untere Stufenzuordnung angesehen. Pauschale OCR-Abweichungen an Namen und Füllungen nicht übernommen."
+  },
+  {
+    "pdf": 17,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 32,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Anweisungen bei במצותיו/וצונו/על נטילת ידים und K-L/M-B-Abschnitte kontrolliert. לחג\"ת וחב\"ד im Makifim-Absatz deutlich; frühere Lesung לנה\"ח verworfen."
+  },
+  {
+    "pdf": 18,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 51,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Oberer Netila-Absatz und untere Birkurim-Anweisungen angesehen; lange Toilettenanweisung in Quadratschrift. Zahlen- und Schlusswortunsicherheit im oberen Absatz bleibt."
+  },
+  {
+    "pdf": 19,
+    "schrift": "raschi",
+    "korrekturen": 2,
+    "ocr_differenzen": 33,
+    "unsicherheitszeichen": 4,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": true,
+    "beobachtung": "Makifim-Vorspann und Beginn der Fußnote kontrolliert. Scan nennt לחג\"ת וחב\"ד und לתקן את חו\"ב; die ältere Kontextänderung או\"א wird durch Bildlesung ersetzt. Fußnote läuft weiter über Folgeseiten."
+  },
+  {
+    "pdf": 20,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 18,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Anweisungen bei אתה, Malchut und M-B von A-B angesehen. Fußnotenfortsetzung unten ist im bisherigen Text unter PDF 19 zusammengezogen."
+  },
+  {
+    "pdf": 21,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 13,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Anweisungen zu M-B von M-H und zwei Zelem-Mochin kontrolliert. Fußnotenfortsetzung unten nicht als eigenständigen verlorenen Text neu anlegen."
+  },
+  {
+    "pdf": 22,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglosse bei אלהינו und längerer Vorspann מלך העולם angesehen. Untere Fußnotenfortsetzung gehört zum unter PDF 19 konsolidierten Text."
+  },
+  {
+    "pdf": 23,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 29,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Siwwug-Anweisung, Makifim und Randglossen des Ascher-Jazar-Textes kontrolliert. לחג\"ת im Makifim-Abschnitt lesbar. Fußnotenabschluss unten unter PDF 19 zusammengezogen."
+  },
+  {
+    "pdf": 24,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 44,
+    "unsicherheitszeichen": 3,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Elohai-Neschama-Vorspann, langer Birkurim-Absatz und kleine Randglossen angesehen. Untere Fußnote wird in der bisherigen Fassung über mehrere Zeilen zusammengezogen; beschädigte Quellenabkürzungen bleiben offen."
+  },
+  {
+    "pdf": 25,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 32,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kleine Stufenzuordnung oben, Glossen zu אלהי נשמה und Rashi-Vorspann der 18 Berachot kontrolliert. Fußnote unten setzt die zuvor begonnene Fußnote fort; keine OCR-bedingte Doppelergänzung."
+  },
+  {
+    "pdf": 26,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 36,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer Rashi-Vorsatz zu den 18 Berachot und kurzer Keter-Vorspann angesehen. Die bisherigen beschädigten Sätze bleiben markiert; Tabellen-Namen nicht anhand linearer OCR umordnen."
+  },
+  {
+    "pdf": 27,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 18,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen bei אתה, Malchut/Tewuna und M-B von A-B angesehen; große Namenfelder sind Quadratschrift. Fußnotenabschluss zur vorangehenden Diskussion bleibt quellenkritisch offen."
+  },
+  {
+    "pdf": 28,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 15,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Zuordnungen zwischen M-B-Tabellen und Zelem-Aufstieg angesehen. Keine sichere zusätzliche Textänderung aus den sichtbaren Einzelabkürzungen abgeleitet."
+  },
+  {
+    "pdf": 29,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 33,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer Vorspann מלך העולם und Fortsetzung des markierten Mochin-Absatzes geprüft. Zahlreiche OCR-Störungen in Stufen-/Namenfolgen; keine freie Rekonstruktion des gesamten Absatzes."
+  },
+  {
+    "pdf": 30,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 30,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortsetzung des markierten Absatzes, Stufenzuordnung und Notiz zur Milderung der Gewurot angesehen. Grafik-/Namenzeilen sind keine zuverlässige lineare OCR-Referenz."
+  },
+  {
+    "pdf": 31,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzer Beracha-Vorspann und Glossen zu Siwwug/Malchut kontrolliert. Keine ausreichend sichere neue Lesung eingesetzt."
+  },
+  {
+    "pdf": 32,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 20,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Anweisungen zu Malchut und drei Füllungen sowie Zelem-Aufstieg angesehen; Namenfelder unverändert. Keine pauschale Glättung der wiederholten Fachabkürzungen."
+  },
+  {
+    "pdf": 33,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 9,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kleine Stufenzuordnung unten und S-G-Glosse bei אלהינו angesehen; übrige Seite Namen-/Zelem-Grafik."
+  },
+  {
+    "pdf": 34,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 36,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer מלך העולם-Vorspann und anschließender Mochin-Absatz zur Keter-Serie angesehen. Komplexe Kürzel nicht aus fehlerhafter OCR pauschal ersetzen."
+  },
+  {
+    "pdf": 35,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 26,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Keter-Stufenzuordnung oben und Vorspann פוקח עורים samt Siwwug-Beschriftungen angesehen."
+  },
+  {
+    "pdf": 36,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 20,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen bei אתה/Malchut und M-B von A-B angesehen; Namenfelder nicht neu linearisiert."
+  },
+  {
+    "pdf": 37,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 14,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "M-H-Miluim-Glosse und wiederholter Zelem-Aufstieg zwischen den Tabellen kontrolliert."
+  },
+  {
+    "pdf": 38,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 35,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glossen bei אלהינו und מלך העולם sowie längere Chochma-Mochin-Anweisung angesehen; Namendiagramm unverändert."
+  },
+  {
+    "pdf": 39,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 16,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Stufenzuordnung und Vorspann מתיר אסורים einschließlich Makifim-Beschriftung angesehen."
+  },
+  {
+    "pdf": 40,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen zu Siwwug, Malchut/Tewuna und M-B von A-B angesehen. Kein hinreichend belegter neuer Wortersatz."
+  },
+  {
+    "pdf": 41,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 20,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "M-B-/M-H-Zuordnungen und kurzer Zelem-Aufstieg angesehen. Wiederholtes Schema bleibt ohne OCR-bedingte Vereinheitlichung."
+  },
+  {
+    "pdf": 42,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 33,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glosse bei אלהינו und längerer מלך העולם-Absatz in der Chochma-Serie angesehen."
+  },
+  {
+    "pdf": 43,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 28,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer Mochin-Absatz oben, Vorspann זוקף כפופים und חשמל-Satz unten angesehen. Die bisherige Folge טו\"ב לבושין כורין מלאין entspricht nicht dem gedruckten Satz zu נהורין."
+  },
+  {
+    "pdf": 44,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen bei אתה und Malchut/Tewuna kontrolliert; sonst überwiegend Namenfelder."
+  },
+  {
+    "pdf": 45,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "M-B-/M-H-Glossen und kurzer Zelem-Aufstieg zwischen den Namenfeldern angesehen."
+  },
+  {
+    "pdf": 46,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glosse bei אלהינו, Stufenzuordnung und Anfang des מלך העולם-Vorspanns angesehen."
+  },
+  {
+    "pdf": 47,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 43,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortgesetzter Siwwug-Absatz, Bina-Mochin und Beschriftungen zu חיוורתי/נהורין angesehen. Markierte Zahl in der Tabelle nicht aus der OCR ersetzen."
+  },
+  {
+    "pdf": 48,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 23,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Vorspann zu einer zusätzlichen Beracha und חשמל-Satz angesehen. Die Parallelstelle zu PDF 43 bestätigt נהורין; verbleibender Marker bleibt für den schwierigen Gesamtausdruck."
+  },
+  {
+    "pdf": 49,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 23,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Glossen zu Malchut, M-B und Zelem-Aufstieg angesehen; übrige Seite Namenfelder."
+  },
+  {
+    "pdf": 50,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 12,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glosse bei אלהינו und מלך העולם-Vorspann mit Bina-Serie angesehen. Unterer Fußnotenabschnitt beginnt die längere Diskussion aus עלי נהר."
+  },
+  {
+    "pdf": 51,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 28,
+    "unsicherheitszeichen": 3,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortgesetzter Bina-Mochin-Absatz und Vorspann הנותן ליעף כח kontrolliert. Die unten gedruckte Fußnote wird in der bisherigen Fassung unter dieser Seite zusammengezogen."
+  },
+  {
+    "pdf": 52,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Siwwug-/Malchut-Kurzglossen und חשמל-Beschriftung oben kontrolliert. Untere Fußnotenfortsetzung gehört zum bereits konsolidierten Kommentar."
+  },
+  {
+    "pdf": 53,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze M-B-/M-H-Zuordnungen und Zelem-Aufstieg angesehen; unten weitere Fußnotenfortsetzung, keine neue unabhängige Anweisung."
+  },
+  {
+    "pdf": 54,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "אלהינו-Glosse und langer מלך העולם-Absatz in der Chessed-Serie angesehen. Unterer Text ist Fortsetzung der Schabbat-/Morgenberachot-Diskussion."
+  },
+  {
+    "pdf": 55,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 23,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Chessed-Mochin-Absatz und Vorspann רוקע הארץ על המים angesehen. Untere Fußnotenfortsetzung wird nicht aus OCR-Mutmaßungen geglättet."
+  },
+  {
+    "pdf": 56,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 29,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Siwwug-/Malchut-Glossen und langer Fußnotenabschnitt unten angesehen. Die Fußnote erklärt den Abstieg der Kelim; bibliographischer Wortlaut bleibt teilweise offen."
+  },
+  {
+    "pdf": 57,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 28,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Vorspann המכין מצעדי גבר, kurze Siwwug-Glossen und unten fortlaufende Fußnote angesehen."
+  },
+  {
+    "pdf": 58,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 15,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen zu Malchut und M-B sowie Fußnotenfortsetzung unten angesehen; keine sichere zusätzliche Einzelkorrektur."
+  },
+  {
+    "pdf": 59,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 10,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Zelem-Aufstieg oben und langer Abschluss der über mehrere Seiten laufenden Fußnote unten angesehen. Die Gegenüberstellung zeigt vor allem Anordnungs- und OCR-Unterschiede."
+  },
+  {
+    "pdf": 60,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 42,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glosse bei אלהינו und מלך העולם-Absatz der Chessed-Serie angesehen; Tabellen nicht aus OCR umordnen."
+  },
+  {
+    "pdf": 61,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Abschluss der Chessed-Mochin-Anweisung und Vorspann אוזר ישראל בגבורה kontrolliert."
+  },
+  {
+    "pdf": 62,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 15,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Siwwug-/Malchut-Zuordnungen angesehen; Namen-/Vokalspalten unverändert."
+  },
+  {
+    "pdf": 63,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "M-B-/M-H-Anweisungen und Zelem-Aufstieg zwischen großen Namenfeldern angesehen."
+  },
+  {
+    "pdf": 64,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 33,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "אלהינו-Glosse und langer מלך העולם-Absatz zur Gewura-Serie angesehen; untere Fortsetzung befindet sich auf der Folgeseite, kein erfundener Abschluss."
+  },
+  {
+    "pdf": 65,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 41,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortsetzung der Gewura-Mochin und langer Absatz zur Ausdehnung des Chaschmals bis unter die Füße, einschließlich נעל-Zuordnung, angesehen."
+  },
+  {
+    "pdf": 66,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 20,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Vorspann zur Gewura-Serie und kurze Siwwug-Glossen angesehen."
+  },
+  {
+    "pdf": 67,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 24,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Malchut-, Miluim- und Zelem-Anweisungen zwischen Namenfeldern angesehen."
+  },
+  {
+    "pdf": 68,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 13,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Zuordnungen bei אלהינו und unter den Miluim angesehen; Namengrafik separat behandeln."
+  },
+  {
+    "pdf": 69,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 41,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer מלך העולם-Vorspann und anschließende Gewura-Mochin-Folge angesehen. Fachkürzel bleiben ohne erzwungene Vereinheitlichung."
+  },
+  {
+    "pdf": 70,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 33,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Ende der Gewura-Serie, Absatz zur H-G-Ausstrahlung und Vorspann der Tiferet-Serie angesehen."
+  },
+  {
+    "pdf": 71,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Siwwug-, Malchut- und Miluim-Glossen angesehen."
+  },
+  {
+    "pdf": 72,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Zelem-, M-B- und Stufenzuordnungen angesehen."
+  },
+  {
+    "pdf": 73,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 44,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "מלך העולם und Tiferet-Mochin angesehen; Ziel der ersten Aufstiegsfolge ist או״א. Die stark beschädigte Folgelesung bleibt [?]."
+  },
+  {
+    "pdf": 74,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 29,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Tiferet-Abschluss, עוטר ישראל בתפארה und neuer Vorspann angesehen."
+  },
+  {
+    "pdf": 75,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 23,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen zu אתה, Malchut und Miluim angesehen."
+  },
+  {
+    "pdf": 76,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 13,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Zelem-Aufstieg und kurze אלהינו-Glosse angesehen; keine Umordnung der Namenfelder."
+  },
+  {
+    "pdf": 77,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 46,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer Tiferet-Vorspann und Mochin-Absatz angesehen; או״א in der ersten Aufstiegsfolge sichtbar."
+  },
+  {
+    "pdf": 78,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 18,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Tiferet-Abschluss, שלא עשני גוי und Nezach-Vorspann angesehen."
+  },
+  {
+    "pdf": 79,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 20,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen zu Siwwug, Malchut und Miluim angesehen."
+  },
+  {
+    "pdf": 80,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 16,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "M-H-Miluim und Zelem-Aufstieg angesehen; Tabellen nicht aus OCR normalisieren."
+  },
+  {
+    "pdf": 81,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 44,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "מלך העולם-Vorspann der Nezach-Serie und folgender Mochin-Absatz angesehen. Erste Zielstufe או״א; stark beschädigte Fortsetzung bleibt offen."
+  },
+  {
+    "pdf": 82,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 24,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Nezach-Abschluss, שלא עשני עבד und neuer Beracha-Vorspann angesehen; gedruckte Stufenbezeichnungen nicht allein aus Parallelstellen berichtigen."
+  },
+  {
+    "pdf": 83,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen bei אתה, Malchut und Miluim angesehen."
+  },
+  {
+    "pdf": 84,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 13,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "M-H- und Zelem-Glossen angesehen."
+  },
+  {
+    "pdf": 85,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 35,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "מלך העולם-Vorspann und Hodot-Mochin-Folge angesehen; erste Zielstufe או״א statt verkürztem א״א."
+  },
+  {
+    "pdf": 86,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 10,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Abschluss, שלא עשני אשה und neuer Beracha-Vorspann angesehen. Auch widersprüchliche gedruckte Nezach-Bezeichnungen nicht stillschweigend harmonisieren."
+  },
+  {
+    "pdf": 87,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 24,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen zu Siwwug/Malchut und Miluim angesehen."
+  },
+  {
+    "pdf": 88,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 14,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "M-H-Miluim und kurzer Zelem-Aufstieg angesehen."
+  },
+  {
+    "pdf": 89,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 37,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer מלך העולם- und Mochin-Absatz angesehen; Nezach-Bezeichnung steht auch im Bild, trotz Nachbarseiten mit Hodot. Zielstufe או״א korrigierbar."
+  },
+  {
+    "pdf": 90,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Schluss der Mochin-Serie und die beiden längeren Glossen bei המעביר/ותנומה angesehen; restliches Gebet Quadratschrift."
+  },
+  {
+    "pdf": 91,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 32,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer Rashi-Vorspann der Toraberacha angesehen; stark beschädigter Schlusssatz bleibt [?]."
+  },
+  {
+    "pdf": 92,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 16,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen zu Siwwug, אתה und Malchut angesehen."
+  },
+  {
+    "pdf": 93,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Miluim- und Zelem-Anweisungen zwischen Namenfeldern angesehen."
+  },
+  {
+    "pdf": 94,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 42,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "מלך העולם und längerer Aufstieg zur Toraberacha samt Beginn der Fußnote angesehen. Fußnote läuft physisch über PDF 94–96, ist im Text unter PDF 94 konsolidiert."
+  },
+  {
+    "pdf": 95,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortsetzung der Hauptanweisung und Mochin-Absatz sowie Fußnotenfortsetzung unten angesehen. Keine doppelte Ergänzung der Fußnote."
+  },
+  {
+    "pdf": 96,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 13,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glossen zu אשר/קדשנו/במצותיו und Fußnotenabschluss angesehen; Lesung technischer Kürzel teilweise offen."
+  },
+  {
+    "pdf": 97,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 47,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glossen zu וצונו/על דברי תורה, Beginn der יסודות-Aufstiegsfolge und Fußnotenbeginn angesehen. Erste Zielstufe או״א."
+  },
+  {
+    "pdf": 98,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 24,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Mochin- und Zelem-Abschluss, neue Beracha-Einleitung sowie Fußnotenfortsetzung angesehen. Fortsetzung ist im Text unter PDF 97 konsolidiert."
+  },
+  {
+    "pdf": 99,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen zu Siwwug, אתה und Malchut angesehen."
+  },
+  {
+    "pdf": 100,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Miluim- und Zelem-Anweisungen angesehen; Namendiagramme unverändert."
+  },
+  {
+    "pdf": 101,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "אלהינו-Glosse und מלך העולם mit beginnender יסודות-Aufstiegsfolge angesehen; או״א im Schluss sichtbar."
+  },
+  {
+    "pdf": 102,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 33,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortsetzung der Aufstiegsfolge und Mochin-Absatz sowie Abschluss der Toraberacha angesehen."
+  },
+  {
+    "pdf": 103,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 65,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer Mezuzah-/Synagogeneintrittsabsatz und untere Fußnote angesehen. Gedruckte Anweisungen nicht nach heutiger Erwartung umformulieren."
+  },
+  {
+    "pdf": 104,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 56,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Einleitung und drei Rashi-Anweisungen zu den Umkreisungen angesehen; kleine alternative Zuordnungen in Klammern mitgesehen."
+  },
+  {
+    "pdf": 105,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 43,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Vier weitere Umkreisungsanweisungen samt alternativen Stufenzuordnungen angesehen."
+  },
+  {
+    "pdf": 106,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 102,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langes allgemeines Gebet und Beginn der Leschem-Jichud-Erklärung angesehen. Dichter Rashi-Fließtext; die Übersicht ersetzt keine vollständige Fachkollation jedes Kürzels."
+  },
+  {
+    "pdf": 107,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 94,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortgesetzte lange Erklärung und fünf Zuordnungen von Handlung/Sprache/Kawwana/Gedanke angesehen; technische Serien nicht frei rekonstruieren."
+  },
+  {
+    "pdf": 108,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 105,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Ratzon-Absatz, Leschem-Jichud und langer Gebotskatalog angesehen. Zitate und Abkürzungen nur bei belastbarem Bildbeleg ändern."
+  },
+  {
+    "pdf": 109,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 97,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortsetzung des Gebotskatalogs, Tefillin-Zuordnungen und Schlussbitte angesehen. Mehrfachkombinationen der Namen getrennt vom OCR-Wortvergleich behandeln."
+  },
+  {
+    "pdf": 110,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 103,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Gebetsfortsetzung, Glaubensbekenntnis und unterer Tallit-Vorspann angesehen."
+  },
+  {
+    "pdf": 111,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 20,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzglossen zu Siwwug und אתה angesehen."
+  },
+  {
+    "pdf": 112,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 23,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Miluim- und Zelem-Aufstieg angesehen; übrige Namenfelder."
+  },
+  {
+    "pdf": 113,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 30,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "מלך העולם-Vorspann zur Mizwa angesehen. Folgender Abschnitt וכעד״ז wird im Text bereits hier geführt, physisch beginnt er erst auf PDF 114."
+  },
+  {
+    "pdf": 114,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 26,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Lange Aufstiegsfortsetzung und Anweisungen bei אשר/קדשנו/במצותיו angesehen. Haupttext teilweise unter PDF 113 zusammengezogen; Vergleichsabweichung deshalb auch Layout."
+  },
+  {
+    "pdf": 115,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 53,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glossen zu וצונו/להתעטף, Vorbereitung und ausführliche Tallit-katan-Mochin angesehen; dichtes technisches Namensschema bleibt fachlich teilweise offen."
+  },
+  {
+    "pdf": 116,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Zell-/Gefäßbeschriftungen und unterer Absatz zu Haararten angesehen; Namengrafik nicht aus OCR neu ordnen."
+  },
+  {
+    "pdf": 117,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 49,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Oberer Tzitzit-Absatz, Hodot-Tallit und zwei lange Tallit-gadol-Mochin-Absätze angesehen; Fachnamen nicht kontextuell vereinheitlichen."
+  },
+  {
+    "pdf": 118,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 27,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Einleitende Etifa-Anweisung und kleine Stufenglossen zwischen Namenfeldern angesehen."
+  },
+  {
+    "pdf": 119,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 28,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": true,
+    "beobachtung": "Haararten-Absatz, יחידה-Glosse und untere Techelet-Glosse angesehen. קולין statt קוצין im ersten Absatz lesbar; abgebrochenes Ende bleibt markiert."
+  },
+  {
+    "pdf": 120,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 26,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Vier seitliche Erläuterungen zu Lichtern, Tzitzit, Schaddai und Rachel sowie zwei kurze untere Hinweise angesehen."
+  },
+  {
+    "pdf": 121,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 37,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Seitliche Erläuterungen zu Jacob/Rachel, מנצפך und langer Hinterkopf-/Augen-Absatz angesehen."
+  },
+  {
+    "pdf": 122,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 55,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Tefillin-Vorspann, Vorbereitung und lange Fußnote mit gedruckter Zusatzkorrektur angesehen."
+  },
+  {
+    "pdf": 123,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 40,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Zwei obere Jichud-Erklärungen und Tefillin-Hand-Anweisung mit Zahlenglosse angesehen."
+  },
+  {
+    "pdf": 124,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Obere Knoten-/Riemen-Glosse und drei Trennungsanweisungen zwischen Namenfeldern angesehen."
+  },
+  {
+    "pdf": 125,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 49,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Lange Kopf-Tefillin-Einleitung und Zuordnung von 21 Erwähnungen, vier Abschnitten und Häusern angesehen; widersprüchliche Kürzel bleiben offen."
+  },
+  {
+    "pdf": 126,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 7,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Drei Trennungsanweisungen zwischen Namenfeldern angesehen."
+  },
+  {
+    "pdf": 127,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 67,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Rashi-Anweisungen für sämtliche Gebetsabschnitte und unterer Absatz zur Erhebung der Welten angesehen."
+  },
+  {
+    "pdf": 128,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 90,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortsetzung der Erhebungsanweisung, langer Absatz zur Gebetshaltung und untere Fußnote angesehen. Komplexe Körper-/Vokalzuordnungen bleiben teilweise fachlich offen."
+  },
+  {
+    "pdf": 129,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 39,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzer Vorsatz und Beschriftungen der Körper-/Sefirot-Tafel angesehen; schematische Namen nicht linear aus OCR ersetzen."
+  },
+  {
+    "pdf": 130,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 16,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Akeda-Vorsatz und zahlreiche kleine Rand-/Inlineglossen der Erzählung angesehen."
+  },
+  {
+    "pdf": 131,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 15,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Akeda-Fortsetzung mit vielen Inlineglossen angesehen. Beschädigte Glosse vor ויבאו bleibt [?]."
+  },
+  {
+    "pdf": 132,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Akeda-Fortsetzung und erklärende Glossen angesehen; auffälliges bisheriges שפניתיהו nicht frei rekonstruieren, sondern im offenen Apparat führen."
+  },
+  {
+    "pdf": 133,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 24,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Lange Zahlen-/Gewurot-Glosse und erklärender Jacob-Absatz angesehen, Detailausschnitt nachgesehen. Zahl רי״ו und הנז״ל בחסדים sind lesbar; übriger Absatz bleibt offen."
+  },
+  {
+    "pdf": 134,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 7,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Inlineglossen im ersten Absatz und obere wiederholte Namenreihe angesehen; Haupttext Quadratschrift."
+  },
+  {
+    "pdf": 135,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 5,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Tikun- und Gefäßbeschriftungen im unteren Tabellenteil angesehen; Hauptgebet Quadratschrift."
+  },
+  {
+    "pdf": 136,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 7,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Vier kurze Tikun-/Bartkorrektur-Zuordnungen angesehen; Name/Gefäßspalten getrennt behandelt."
+  },
+  {
+    "pdf": 137,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 15,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Weitere Tikun-Glossen und mittlerer längerer Absatz zur Milderung angesehen. Unsicherer Absatz bleibt markiert."
+  },
+  {
+    "pdf": 138,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 12,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Obere kurze Tikun-/Funken-Glosse angesehen; anschließendes Gebet Quadratschrift mit kleinen Inlinezuordnungen."
+  },
+  {
+    "pdf": 139,
+    "schrift": "keine_raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 4,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Gebet in Quadratschrift; kein Rashi-Fließtext auf dieser Seite."
+  },
+  {
+    "pdf": 140,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 90,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Lange Einleitung zum frühen Schma angesehen. Bisherige Lesung enthält weiterhin zahlreiche nicht ausreichend sicher auflösbare Wörter und bleibt ausdrücklich [?]."
+  },
+  {
+    "pdf": 141,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 4,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Schma-Tafel, seitliche Birurim-Zuordnungen und zwei untere Absätze angesehen. Mehrere beschädigte technische Folgen bleiben offen."
+  },
+  {
+    "pdf": 142,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 43,
+    "unsicherheitszeichen": 4,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Zwei lange Mochin-Absätze und untere Hadassim-Anweisung angesehen; markierte Detailfolgen nicht aus OCR glattziehen."
+  },
+  {
+    "pdf": 143,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 49,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Vorbereitung von Chochma/Bina und Daat, dreispaltige Anweisungen und unterer Mesirut-Nefesch-Absatz angesehen. ודעת im ersten Satz sichtbar."
+  },
+  {
+    "pdf": 144,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Drei obere nummerierte Anweisungen und unterer Mochin-Absatz angesehen; komplexe dritte Anweisung bleibt markiert."
+  },
+  {
+    "pdf": 145,
+    "schrift": "raschi",
+    "korrekturen": 1,
+    "ocr_differenzen": 53,
+    "unsicherheitszeichen": 5,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fast ganzseitiger Aufstiegs-/Siwwug-Text angesehen. Satzanfang המולידים י״ס דמ״ה lesbar; übrige markierte Passagen nur teilweise gesichert."
+  },
+  {
+    "pdf": 146,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 47,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Langer ganzseitiger Mochin-/Zelem-Absatz angesehen. Zahlreiche Kürzel- und Stufenfolgen bleiben offen; kein Ersatz durch neue OCR."
+  },
+  {
+    "pdf": 147,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 19,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurze Zwischenzuordnungen und längerer unterer Mochin-Absatz angesehen."
+  },
+  {
+    "pdf": 148,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Oberer Mochin-Absatz und Beschriftungen der Gefäßtafel angesehen; technische Restunsicherheit bleibt."
+  },
+  {
+    "pdf": 149,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 45,
+    "unsicherheitszeichen": 7,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Anweisungen zu vier Alef, ברוך/כבוד/שם, מלכותו und untere Gefäß-/Zahlenhinweise angesehen."
+  },
+  {
+    "pdf": 150,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 22,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Obere Glossen zu לעולם/ועד und Zwischenabsatz mit Namenfolgen angesehen; Hauptgebet unten Quadratschrift."
+  },
+  {
+    "pdf": 151,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 9,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kurzer Vorsatz vor יהי רצון und Quellenzeile angesehen; Hauptgebet Quadratschrift."
+  },
+  {
+    "pdf": 152,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 34,
+    "unsicherheitszeichen": 4,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Tamid-Vorspann, צו-Glosse und mittlere Erläuterung mit Zahlen-/Namenfolgen angesehen. Beschädigte Schlussteile bleiben markiert."
+  },
+  {
+    "pdf": 153,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 46,
+    "unsicherheitszeichen": 5,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Lange Aufstiegsfolge, Ketoret-Vorspann und untere Fußnote angesehen; komplexe Fortsetzung bleibt teilweise offen."
+  },
+  {
+    "pdf": 154,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 4,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Ketoret-Glossen zu einzelnen Zutaten, סמים und Gewichten angesehen. Zahlenfolge bei וחלבנה nicht ohne Detailklärung ändern."
+  },
+  {
+    "pdf": 155,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 20,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Mehrere kleine Glossen zu Gewichten, Jom Kippur, elf Zutaten und הצפורן angesehen; vorhandene Restmarker beibehalten."
+  },
+  {
+    "pdf": 156,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 32,
+    "unsicherheitszeichen": 4,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Dichte Inlineglossen der Zutatenliste mit Namen-/Zahlenfolgen angesehen; keine pauschale Ersetzung durch OCR."
+  },
+  {
+    "pdf": 157,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 11,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Glossen zu Salz, Rauch und Jordanwasser sowie Namenreihen angesehen; anschließender Haupttext Quadratschrift."
+  },
+  {
+    "pdf": 158,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 6,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Zwei kurze Inlineglossen zu שאור/דבש angesehen; Rest Ketoret und Reihenfolge der Opfer in Quadratschrift."
+  },
+  {
+    "pdf": 159,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 23,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Anabekoach-Tafel mit sämtlichen kleinen inneren/äußeren Zuordnungen angesehen."
+  },
+  {
+    "pdf": 160,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 18,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Fortsetzung Anabekoach-Tafel mit Sefirot-/Kleidungszuordnungen angesehen."
+  },
+  {
+    "pdf": 161,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 16,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Schluss der Anabekoach-Tafel und kurze untere צפנה-Glosse angesehen; Hauptgebet Quadratschrift."
+  },
+  {
+    "pdf": 162,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 28,
+    "unsicherheitszeichen": 3,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Einleitung איזהו מקומן und zwei längere Hejchalot-Glossen angesehen. Standardisierte Fachfolgen nicht allein anhand neuer OCR rekonstruieren."
+  },
+  {
+    "pdf": 163,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 27,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Zwei lange Hejchalot-Glossen zwischen Mischna-Absätzen angesehen."
+  },
+  {
+    "pdf": 164,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 28,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Zwei lange Glossen zu זבחי שלמי צבור und התודה ואיל נזיר angesehen."
+  },
+  {
+    "pdf": 165,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 13,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Lange Glosse bei שלמים קדשים und kleine Quellenzeile vor den 13 Regeln angesehen."
+  },
+  {
+    "pdf": 166,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 17,
+    "unsicherheitszeichen": 3,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "13 Regeln, erste neun, mit zahlreichen kleinen Raschi-Zuordnungen angesehen; beschädigte eingebettete Stufenfolgen bleiben offen."
+  },
+  {
+    "pdf": 167,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 16,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Regeln zehn bis dreizehn mit Glossen und kurze folgende Einleitung angesehen."
+  },
+  {
+    "pdf": 168,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 33,
+    "unsicherheitszeichen": 8,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kadisch-Einleitung und יתגדל/ויתקדש-Anweisungen samt Fußnotenbeginn angesehen. Bisherige Datei zieht Erläuterungen aus PDF 168–171 unter PDF 168 zusammen."
+  },
+  {
+    "pdf": 169,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 14,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "שמיה/רבא-Anweisungen und Fußnotenfortsetzung angesehen; Fußnote bereits unter PDF 168 geführt."
+  },
+  {
+    "pdf": 170,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 9,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Obere Süßungsanweisung, Diagrammglossen und langer Fußnotenmittelteil angesehen. Fußnotenfolge unter PDF 168 konsolidiert."
+  },
+  {
+    "pdf": 171,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 29,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Hauptanweisungen zu den zehn Wörtern, drei Zelem und Milderung sowie Fußnotenabschluss angesehen. Fußnote nicht doppelt ergänzen."
+  },
+  {
+    "pdf": 172,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 37,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "אמן-Absatz, seitliche כח-Erklärung und untere 28-Buchstaben-Anweisung angesehen."
+  },
+  {
+    "pdf": 173,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 35,
+    "unsicherheitszeichen": 2,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Mehrere Kadisch-/M-B-Anweisungen rechts neben Namenfeldern angesehen; zahlreiche beschädigte Kürzel bleiben markiert."
+  },
+  {
+    "pdf": 174,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 31,
+    "unsicherheitszeichen": 3,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Kadisch-/M-B-Fortsetzung, untere Anweisungen und zwei Fußnoten angesehen; lange zweite Fußnote physisch auf PDF 175 fortgesetzt, im Text unter PDF 174 zusammengezogen."
+  },
+  {
+    "pdf": 175,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 12,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "אמן-Glosse und unterer langer Fußnotenabschluss angesehen; Fußnote gehört zum unter PDF 174 geführten Text."
+  },
+  {
+    "pdf": 176,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 6,
+    "unsicherheitszeichen": 0,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Zwei kurze Zwischenanweisungen bei יהא/שלמא רבא angesehen. Haupt-Kadisch in Quadratschrift."
+  },
+  {
+    "pdf": 177,
+    "schrift": "raschi",
+    "korrekturen": 0,
+    "ocr_differenzen": 41,
+    "unsicherheitszeichen": 1,
+    "pruefgrundlage": "frühere Bildsichtung übernommen; neue Zuordnung auf identische Ausgangsdatei",
+    "erneut_am_bild_angesehen": false,
+    "beobachtung": "Gedruckte Errata-Tabelle vollständig als Tabelle angesehen. Ihre Einträge bleiben als Quellenkorrekturen erhalten; nicht ungeprüft in anders paginierte Haupttextstellen einarbeiten."
+  }
+]

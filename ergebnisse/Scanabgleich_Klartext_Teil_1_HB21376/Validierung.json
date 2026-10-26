@@ -1,0 +1,16 @@
+{
+  "input_sha256": "f050f4ef6024332275107055feea1832f2156ebc6501c22fd1fd939bf579bfaf",
+  "output_sha256": "951fb58c43762e5db94a14d897a2fa49fec7fbac357b0d59dda132319b16fc13",
+  "corrections": 55,
+  "changed_pages": 21,
+  "text_pages": 176,
+  "scans_linked": 177,
+  "ocr_differences": 5200,
+  "markers_in_text_before": 150,
+  "markers_in_text_after": 150,
+  "tables_preserved": true,
+  "existing_niqqud_preserved": true,
+  "headers_preserved": true,
+  "unchanged_pages_preserved": true,
+  "comparison_scope": "Frühere Bildkollation auf identische Klartext-Ausgangsfassung neu zugeordnet; PDF 6/7/19/119 erneut angesehen. Keine neue vollständige Zeichenkollation."
+}

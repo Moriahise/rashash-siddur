@@ -1,0 +1,710 @@
+{
+  "1": [
+    "keine_raschi",
+    "Titelblatt in Quadratschrift; Namen und Verlagsvermerk gegen Bild angesehen. Stark beschädigte neue OCR nicht als Ersatz verwenden."
+  ],
+  "2": [
+    "stempelseite",
+    "Stempelseite; im transkribierten Text absichtlich ausgelassen."
+  ],
+  "3": [
+    "keine_raschi",
+    "Haskamot in Quadratschrift. Neue OCR stark beschädigt; keine daraus abgeleiteten Eingriffe."
+  ],
+  "4": [
+    "keine_raschi",
+    "Haskamot und Hejlprin-Abschnitt in Quadratschrift; Bildübersicht kontrolliert, kein Rashi-Fließtext."
+  ],
+  "5": [
+    "keine_raschi",
+    "Fortsetzung der Haskamot in Quadratschrift; Namen und Schlussunterschriften gesehen."
+  ],
+  "6": [
+    "raschi",
+    "Gesamte Rashi-Übersicht zu Gebetszeiten und Festtagen im Bild angesehen. Mehrere echte Wort-/Stufenfehler außerhalb bisheriger [?]-Stellen. Nicht eindeutig gelesene Formeln bleiben offen."
+  ],
+  "7": [
+    "raschi",
+    "Rashi-Übersicht der Festtage und Aufstiege angesehen; fehlerhafte ältere Kontextkorrektur und weitere sachlich relevante Lesefehler erkannt. Komplexe restliche Sätze nicht frei rekonstruieren."
+  ],
+  "8": [
+    "raschi",
+    "Rashi-Übersicht, hundert Berachot und Netilat Jadajim angesehen. Mehrere falsche gewöhnliche Wörter im bisherigen Text; untere Zahlen-/Namenfolge weiterhin schwer lesbar."
+  ],
+  "9": [
+    "raschi",
+    "Einleitungsabsatz, וכה יעשה, Netila-Anweisung und Fußnotenverweis angesehen. Neue OCR verstümmelt viele Fachabkürzungen; der lange unsichere Anfang bleibt offen."
+  ],
+  "10": [
+    "raschi",
+    "Anweisungen für sechs Güsse und drei Reibungen geprüft. Der Anschluss vor שפשוף א' lautet ואח\"כ ישפשף, nicht וחו\"ב שטפים."
+  ],
+  "11": [
+    "raschi",
+    "Rashi-Einleitung über Ibbur und Beginn der Fußnote kontrolliert; Rest der Seite sind Namen-/Vokaltabellen. Achtung: bisheriger Text zieht die physisch über PDF 11–14 laufende Fußnote unter PDF 11 zusammen."
+  ],
+  "12": [
+    "raschi",
+    "Hebung der Hände und Beracha-Vorspann kontrolliert. Fußnotenfortsetzung unten gehört zum unter PDF 11 zusammengezogenen Text; nicht als fehlender neuer Absatz doppelt ergänzen."
+  ],
+  "13": [
+    "raschi",
+    "Kurze Anweisungen bei אתה und zu Malchut/Tewuna angesehen. Fußnotenfortsetzung unten gehört zur übergreifenden Fußnote PDF 11–14; unklare Stufenabkürzung bleibt offen."
+  ],
+  "14": [
+    "raschi",
+    "Kurze Mochin-/Miluim-Anweisungen und ausführlicher Fußnotenabschluss unten angesehen. Die große Differenz entsteht teilweise durch die bisherige Zusammenziehung unter PDF 11; genaue Zitierstellen weiterhin ungesichert."
+  ],
+  "15": [
+    "raschi",
+    "Oberer Vorspann zu zwei Zelem-Mochin und kleine Zuordnungen bei אלהינו kontrolliert. Namen-Grafik nicht aus linearer OCR normalisieren."
+  ],
+  "16": [
+    "raschi",
+    "Vorspann und Anweisungen bei אשר/קדשנו sowie untere Stufenzuordnung angesehen. Pauschale OCR-Abweichungen an Namen und Füllungen nicht übernommen."
+  ],
+  "17": [
+    "raschi",
+    "Anweisungen bei במצותיו/וצונו/על נטילת ידים und K-L/M-B-Abschnitte kontrolliert. לחג\"ת וחב\"ד im Makifim-Absatz deutlich; frühere Lesung לנה\"ח verworfen."
+  ],
+  "18": [
+    "raschi",
+    "Oberer Netila-Absatz und untere Birkurim-Anweisungen angesehen; lange Toilettenanweisung in Quadratschrift. Zahlen- und Schlusswortunsicherheit im oberen Absatz bleibt."
+  ],
+  "19": [
+    "raschi",
+    "Makifim-Vorspann und Beginn der Fußnote kontrolliert. Scan nennt לחג\"ת וחב\"ד und לתקן את חו\"ב; die ältere Kontextänderung או\"א wird durch Bildlesung ersetzt. Fußnote läuft weiter über Folgeseiten."
+  ],
+  "20": [
+    "raschi",
+    "Kurze Anweisungen bei אתה, Malchut und M-B von A-B angesehen. Fußnotenfortsetzung unten ist im bisherigen Text unter PDF 19 zusammengezogen."
+  ],
+  "21": [
+    "raschi",
+    "Kurze Anweisungen zu M-B von M-H und zwei Zelem-Mochin kontrolliert. Fußnotenfortsetzung unten nicht als eigenständigen verlorenen Text neu anlegen."
+  ],
+  "22": [
+    "raschi",
+    "Kurzglosse bei אלהינו und längerer Vorspann מלך העולם angesehen. Untere Fußnotenfortsetzung gehört zum unter PDF 19 konsolidierten Text."
+  ],
+  "23": [
+    "raschi",
+    "Siwwug-Anweisung, Makifim und Randglossen des Ascher-Jazar-Textes kontrolliert. לחג\"ת im Makifim-Abschnitt lesbar. Fußnotenabschluss unten unter PDF 19 zusammengezogen."
+  ],
+  "24": [
+    "raschi",
+    "Elohai-Neschama-Vorspann, langer Birkurim-Absatz und kleine Randglossen angesehen. Untere Fußnote wird in der bisherigen Fassung über mehrere Zeilen zusammengezogen; beschädigte Quellenabkürzungen bleiben offen."
+  ],
+  "25": [
+    "raschi",
+    "Kleine Stufenzuordnung oben, Glossen zu אלהי נשמה und Rashi-Vorspann der 18 Berachot kontrolliert. Fußnote unten setzt die zuvor begonnene Fußnote fort; keine OCR-bedingte Doppelergänzung."
+  ],
+  "26": [
+    "raschi",
+    "Langer Rashi-Vorsatz zu den 18 Berachot und kurzer Keter-Vorspann angesehen. Die bisherigen beschädigten Sätze bleiben markiert; Tabellen-Namen nicht anhand linearer OCR umordnen."
+  ],
+  "27": [
+    "raschi",
+    "Kurzglossen bei אתה, Malchut/Tewuna und M-B von A-B angesehen; große Namenfelder sind Quadratschrift. Fußnotenabschluss zur vorangehenden Diskussion bleibt quellenkritisch offen."
+  ],
+  "28": [
+    "raschi",
+    "Kurze Zuordnungen zwischen M-B-Tabellen und Zelem-Aufstieg angesehen. Keine sichere zusätzliche Textänderung aus den sichtbaren Einzelabkürzungen abgeleitet."
+  ],
+  "29": [
+    "raschi",
+    "Langer Vorspann מלך העולם und Fortsetzung des markierten Mochin-Absatzes geprüft. Zahlreiche OCR-Störungen in Stufen-/Namenfolgen; keine freie Rekonstruktion des gesamten Absatzes."
+  ],
+  "30": [
+    "raschi",
+    "Fortsetzung des markierten Absatzes, Stufenzuordnung und Notiz zur Milderung der Gewurot angesehen. Grafik-/Namenzeilen sind keine zuverlässige lineare OCR-Referenz."
+  ],
+  "31": [
+    "raschi",
+    "Kurzer Beracha-Vorspann und Glossen zu Siwwug/Malchut kontrolliert. Keine ausreichend sichere neue Lesung eingesetzt."
+  ],
+  "32": [
+    "raschi",
+    "Kurze Anweisungen zu Malchut und drei Füllungen sowie Zelem-Aufstieg angesehen; Namenfelder unverändert. Keine pauschale Glättung der wiederholten Fachabkürzungen."
+  ],
+  "33": [
+    "raschi",
+    "Kleine Stufenzuordnung unten und S-G-Glosse bei אלהינו angesehen; übrige Seite Namen-/Zelem-Grafik."
+  ],
+  "34": [
+    "raschi",
+    "Langer מלך העולם-Vorspann und anschließender Mochin-Absatz zur Keter-Serie angesehen. Komplexe Kürzel nicht aus fehlerhafter OCR pauschal ersetzen."
+  ],
+  "35": [
+    "raschi",
+    "Keter-Stufenzuordnung oben und Vorspann פוקח עורים samt Siwwug-Beschriftungen angesehen."
+  ],
+  "36": [
+    "raschi",
+    "Kurzglossen bei אתה/Malchut und M-B von A-B angesehen; Namenfelder nicht neu linearisiert."
+  ],
+  "37": [
+    "raschi",
+    "M-H-Miluim-Glosse und wiederholter Zelem-Aufstieg zwischen den Tabellen kontrolliert."
+  ],
+  "38": [
+    "raschi",
+    "Glossen bei אלהינו und מלך העולם sowie längere Chochma-Mochin-Anweisung angesehen; Namendiagramm unverändert."
+  ],
+  "39": [
+    "raschi",
+    "Kurze Stufenzuordnung und Vorspann מתיר אסורים einschließlich Makifim-Beschriftung angesehen."
+  ],
+  "40": [
+    "raschi",
+    "Kurzglossen zu Siwwug, Malchut/Tewuna und M-B von A-B angesehen. Kein hinreichend belegter neuer Wortersatz."
+  ],
+  "41": [
+    "raschi",
+    "M-B-/M-H-Zuordnungen und kurzer Zelem-Aufstieg angesehen. Wiederholtes Schema bleibt ohne OCR-bedingte Vereinheitlichung."
+  ],
+  "42": [
+    "raschi",
+    "Glosse bei אלהינו und längerer מלך העולם-Absatz in der Chochma-Serie angesehen."
+  ],
+  "43": [
+    "raschi",
+    "Langer Mochin-Absatz oben, Vorspann זוקף כפופים und חשמל-Satz unten angesehen. Die bisherige Folge טו\"ב לבושין כורין מלאין entspricht nicht dem gedruckten Satz zu נהורין."
+  ],
+  "44": [
+    "raschi",
+    "Kurzglossen bei אתה und Malchut/Tewuna kontrolliert; sonst überwiegend Namenfelder."
+  ],
+  "45": [
+    "raschi",
+    "M-B-/M-H-Glossen und kurzer Zelem-Aufstieg zwischen den Namenfeldern angesehen."
+  ],
+  "46": [
+    "raschi",
+    "Glosse bei אלהינו, Stufenzuordnung und Anfang des מלך העולם-Vorspanns angesehen."
+  ],
+  "47": [
+    "raschi",
+    "Fortgesetzter Siwwug-Absatz, Bina-Mochin und Beschriftungen zu חיוורתי/נהורין angesehen. Markierte Zahl in der Tabelle nicht aus der OCR ersetzen."
+  ],
+  "48": [
+    "raschi",
+    "Vorspann zu einer zusätzlichen Beracha und חשמל-Satz angesehen. Die Parallelstelle zu PDF 43 bestätigt נהורין; verbleibender Marker bleibt für den schwierigen Gesamtausdruck."
+  ],
+  "49": [
+    "raschi",
+    "Kurze Glossen zu Malchut, M-B und Zelem-Aufstieg angesehen; übrige Seite Namenfelder."
+  ],
+  "50": [
+    "raschi",
+    "Glosse bei אלהינו und מלך העולם-Vorspann mit Bina-Serie angesehen. Unterer Fußnotenabschnitt beginnt die längere Diskussion aus עלי נהר."
+  ],
+  "51": [
+    "raschi",
+    "Fortgesetzter Bina-Mochin-Absatz und Vorspann הנותן ליעף כח kontrolliert. Die unten gedruckte Fußnote wird in der bisherigen Fassung unter dieser Seite zusammengezogen."
+  ],
+  "52": [
+    "raschi",
+    "Siwwug-/Malchut-Kurzglossen und חשמל-Beschriftung oben kontrolliert. Untere Fußnotenfortsetzung gehört zum bereits konsolidierten Kommentar."
+  ],
+  "53": [
+    "raschi",
+    "Kurze M-B-/M-H-Zuordnungen und Zelem-Aufstieg angesehen; unten weitere Fußnotenfortsetzung, keine neue unabhängige Anweisung."
+  ],
+  "54": [
+    "raschi",
+    "אלהינו-Glosse und langer מלך העולם-Absatz in der Chessed-Serie angesehen. Unterer Text ist Fortsetzung der Schabbat-/Morgenberachot-Diskussion."
+  ],
+  "55": [
+    "raschi",
+    "Chessed-Mochin-Absatz und Vorspann רוקע הארץ על המים angesehen. Untere Fußnotenfortsetzung wird nicht aus OCR-Mutmaßungen geglättet."
+  ],
+  "56": [
+    "raschi",
+    "Siwwug-/Malchut-Glossen und langer Fußnotenabschnitt unten angesehen. Die Fußnote erklärt den Abstieg der Kelim; bibliographischer Wortlaut bleibt teilweise offen."
+  ],
+  "57": [
+    "raschi",
+    "Vorspann המכין מצעדי גבר, kurze Siwwug-Glossen und unten fortlaufende Fußnote angesehen."
+  ],
+  "58": [
+    "raschi",
+    "Kurzglossen zu Malchut und M-B sowie Fußnotenfortsetzung unten angesehen; keine sichere zusätzliche Einzelkorrektur."
+  ],
+  "59": [
+    "raschi",
+    "Zelem-Aufstieg oben und langer Abschluss der über mehrere Seiten laufenden Fußnote unten angesehen. Die Gegenüberstellung zeigt vor allem Anordnungs- und OCR-Unterschiede."
+  ],
+  "60": [
+    "raschi",
+    "Glosse bei אלהינו und מלך העולם-Absatz der Chessed-Serie angesehen; Tabellen nicht aus OCR umordnen."
+  ],
+  "61": [
+    "raschi",
+    "Abschluss der Chessed-Mochin-Anweisung und Vorspann אוזר ישראל בגבורה kontrolliert."
+  ],
+  "62": [
+    "raschi",
+    "Kurze Siwwug-/Malchut-Zuordnungen angesehen; Namen-/Vokalspalten unverändert."
+  ],
+  "63": [
+    "raschi",
+    "M-B-/M-H-Anweisungen und Zelem-Aufstieg zwischen großen Namenfeldern angesehen."
+  ],
+  "64": [
+    "raschi",
+    "אלהינו-Glosse und langer מלך העולם-Absatz zur Gewura-Serie angesehen; untere Fortsetzung befindet sich auf der Folgeseite, kein erfundener Abschluss."
+  ],
+  "65": [
+    "raschi",
+    "Fortsetzung der Gewura-Mochin und langer Absatz zur Ausdehnung des Chaschmals bis unter die Füße, einschließlich נעל-Zuordnung, angesehen."
+  ],
+  "66": [
+    "raschi",
+    "Vorspann zur Gewura-Serie und kurze Siwwug-Glossen angesehen."
+  ],
+  "67": [
+    "raschi",
+    "Kurze Malchut-, Miluim- und Zelem-Anweisungen zwischen Namenfeldern angesehen."
+  ],
+  "68": [
+    "raschi",
+    "Kurze Zuordnungen bei אלהינו und unter den Miluim angesehen; Namengrafik separat behandeln."
+  ],
+  "69": [
+    "raschi",
+    "Langer מלך העולם-Vorspann und anschließende Gewura-Mochin-Folge angesehen. Fachkürzel bleiben ohne erzwungene Vereinheitlichung."
+  ],
+  "70": [
+    "raschi",
+    "Ende der Gewura-Serie, Absatz zur H-G-Ausstrahlung und Vorspann der Tiferet-Serie angesehen."
+  ],
+  "71": [
+    "raschi",
+    "Kurze Siwwug-, Malchut- und Miluim-Glossen angesehen."
+  ],
+  "72": [
+    "raschi",
+    "Kurze Zelem-, M-B- und Stufenzuordnungen angesehen."
+  ],
+  "73": [
+    "raschi",
+    "מלך העולם und Tiferet-Mochin angesehen; Ziel der ersten Aufstiegsfolge ist או״א. Die stark beschädigte Folgelesung bleibt [?]."
+  ],
+  "74": [
+    "raschi",
+    "Tiferet-Abschluss, עוטר ישראל בתפארה und neuer Vorspann angesehen."
+  ],
+  "75": [
+    "raschi",
+    "Kurzglossen zu אתה, Malchut und Miluim angesehen."
+  ],
+  "76": [
+    "raschi",
+    "Zelem-Aufstieg und kurze אלהינו-Glosse angesehen; keine Umordnung der Namenfelder."
+  ],
+  "77": [
+    "raschi",
+    "Langer Tiferet-Vorspann und Mochin-Absatz angesehen; או״א in der ersten Aufstiegsfolge sichtbar."
+  ],
+  "78": [
+    "raschi",
+    "Tiferet-Abschluss, שלא עשני גוי und Nezach-Vorspann angesehen."
+  ],
+  "79": [
+    "raschi",
+    "Kurzglossen zu Siwwug, Malchut und Miluim angesehen."
+  ],
+  "80": [
+    "raschi",
+    "M-H-Miluim und Zelem-Aufstieg angesehen; Tabellen nicht aus OCR normalisieren."
+  ],
+  "81": [
+    "raschi",
+    "מלך העולם-Vorspann der Nezach-Serie und folgender Mochin-Absatz angesehen. Erste Zielstufe או״א; stark beschädigte Fortsetzung bleibt offen."
+  ],
+  "82": [
+    "raschi",
+    "Nezach-Abschluss, שלא עשני עבד und neuer Beracha-Vorspann angesehen; gedruckte Stufenbezeichnungen nicht allein aus Parallelstellen berichtigen."
+  ],
+  "83": [
+    "raschi",
+    "Kurzglossen bei אתה, Malchut und Miluim angesehen."
+  ],
+  "84": [
+    "raschi",
+    "M-H- und Zelem-Glossen angesehen."
+  ],
+  "85": [
+    "raschi",
+    "מלך העולם-Vorspann und Hodot-Mochin-Folge angesehen; erste Zielstufe או״א statt verkürztem א״א."
+  ],
+  "86": [
+    "raschi",
+    "Abschluss, שלא עשני אשה und neuer Beracha-Vorspann angesehen. Auch widersprüchliche gedruckte Nezach-Bezeichnungen nicht stillschweigend harmonisieren."
+  ],
+  "87": [
+    "raschi",
+    "Kurzglossen zu Siwwug/Malchut und Miluim angesehen."
+  ],
+  "88": [
+    "raschi",
+    "M-H-Miluim und kurzer Zelem-Aufstieg angesehen."
+  ],
+  "89": [
+    "raschi",
+    "Langer מלך העולם- und Mochin-Absatz angesehen; Nezach-Bezeichnung steht auch im Bild, trotz Nachbarseiten mit Hodot. Zielstufe או״א korrigierbar."
+  ],
+  "90": [
+    "raschi",
+    "Schluss der Mochin-Serie und die beiden längeren Glossen bei המעביר/ותנומה angesehen; restliches Gebet Quadratschrift."
+  ],
+  "91": [
+    "raschi",
+    "Langer Rashi-Vorspann der Toraberacha angesehen; stark beschädigter Schlusssatz bleibt [?]."
+  ],
+  "92": [
+    "raschi",
+    "Kurzglossen zu Siwwug, אתה und Malchut angesehen."
+  ],
+  "93": [
+    "raschi",
+    "Miluim- und Zelem-Anweisungen zwischen Namenfeldern angesehen."
+  ],
+  "94": [
+    "raschi",
+    "מלך העולם und längerer Aufstieg zur Toraberacha samt Beginn der Fußnote angesehen. Fußnote läuft physisch über PDF 94–96, ist im Text unter PDF 94 konsolidiert."
+  ],
+  "95": [
+    "raschi",
+    "Fortsetzung der Hauptanweisung und Mochin-Absatz sowie Fußnotenfortsetzung unten angesehen. Keine doppelte Ergänzung der Fußnote."
+  ],
+  "96": [
+    "raschi",
+    "Glossen zu אשר/קדשנו/במצותיו und Fußnotenabschluss angesehen; Lesung technischer Kürzel teilweise offen."
+  ],
+  "97": [
+    "raschi",
+    "Glossen zu וצונו/על דברי תורה, Beginn der יסודות-Aufstiegsfolge und Fußnotenbeginn angesehen. Erste Zielstufe או״א."
+  ],
+  "98": [
+    "raschi",
+    "Mochin- und Zelem-Abschluss, neue Beracha-Einleitung sowie Fußnotenfortsetzung angesehen. Fortsetzung ist im Text unter PDF 97 konsolidiert."
+  ],
+  "99": [
+    "raschi",
+    "Kurzglossen zu Siwwug, אתה und Malchut angesehen."
+  ],
+  "100": [
+    "raschi",
+    "Miluim- und Zelem-Anweisungen angesehen; Namendiagramme unverändert."
+  ],
+  "101": [
+    "raschi",
+    "אלהינו-Glosse und מלך העולם mit beginnender יסודות-Aufstiegsfolge angesehen; או״א im Schluss sichtbar."
+  ],
+  "102": [
+    "raschi",
+    "Fortsetzung der Aufstiegsfolge und Mochin-Absatz sowie Abschluss der Toraberacha angesehen."
+  ],
+  "103": [
+    "raschi",
+    "Langer Mezuzah-/Synagogeneintrittsabsatz und untere Fußnote angesehen. Gedruckte Anweisungen nicht nach heutiger Erwartung umformulieren."
+  ],
+  "104": [
+    "raschi",
+    "Einleitung und drei Rashi-Anweisungen zu den Umkreisungen angesehen; kleine alternative Zuordnungen in Klammern mitgesehen."
+  ],
+  "105": [
+    "raschi",
+    "Vier weitere Umkreisungsanweisungen samt alternativen Stufenzuordnungen angesehen."
+  ],
+  "106": [
+    "raschi",
+    "Langes allgemeines Gebet und Beginn der Leschem-Jichud-Erklärung angesehen. Dichter Rashi-Fließtext; die Übersicht ersetzt keine vollständige Fachkollation jedes Kürzels."
+  ],
+  "107": [
+    "raschi",
+    "Fortgesetzte lange Erklärung und fünf Zuordnungen von Handlung/Sprache/Kawwana/Gedanke angesehen; technische Serien nicht frei rekonstruieren."
+  ],
+  "108": [
+    "raschi",
+    "Ratzon-Absatz, Leschem-Jichud und langer Gebotskatalog angesehen. Zitate und Abkürzungen nur bei belastbarem Bildbeleg ändern."
+  ],
+  "109": [
+    "raschi",
+    "Fortsetzung des Gebotskatalogs, Tefillin-Zuordnungen und Schlussbitte angesehen. Mehrfachkombinationen der Namen getrennt vom OCR-Wortvergleich behandeln."
+  ],
+  "110": [
+    "raschi",
+    "Gebetsfortsetzung, Glaubensbekenntnis und unterer Tallit-Vorspann angesehen."
+  ],
+  "111": [
+    "raschi",
+    "Kurzglossen zu Siwwug und אתה angesehen."
+  ],
+  "112": [
+    "raschi",
+    "Miluim- und Zelem-Aufstieg angesehen; übrige Namenfelder."
+  ],
+  "113": [
+    "raschi",
+    "מלך העולם-Vorspann zur Mizwa angesehen. Folgender Abschnitt וכעד״ז wird im Text bereits hier geführt, physisch beginnt er erst auf PDF 114."
+  ],
+  "114": [
+    "raschi",
+    "Lange Aufstiegsfortsetzung und Anweisungen bei אשר/קדשנו/במצותיו angesehen. Haupttext teilweise unter PDF 113 zusammengezogen; Vergleichsabweichung deshalb auch Layout."
+  ],
+  "115": [
+    "raschi",
+    "Glossen zu וצונו/להתעטף, Vorbereitung und ausführliche Tallit-katan-Mochin angesehen; dichtes technisches Namensschema bleibt fachlich teilweise offen."
+  ],
+  "116": [
+    "raschi",
+    "Kurze Zell-/Gefäßbeschriftungen und unterer Absatz zu Haararten angesehen; Namengrafik nicht aus OCR neu ordnen."
+  ],
+  "117": [
+    "raschi",
+    "Oberer Tzitzit-Absatz, Hodot-Tallit und zwei lange Tallit-gadol-Mochin-Absätze angesehen; Fachnamen nicht kontextuell vereinheitlichen."
+  ],
+  "118": [
+    "raschi",
+    "Einleitende Etifa-Anweisung und kleine Stufenglossen zwischen Namenfeldern angesehen."
+  ],
+  "119": [
+    "raschi",
+    "Haararten-Absatz, יחידה-Glosse und untere Techelet-Glosse angesehen. קולין statt קוצין im ersten Absatz lesbar; abgebrochenes Ende bleibt markiert."
+  ],
+  "120": [
+    "raschi",
+    "Vier seitliche Erläuterungen zu Lichtern, Tzitzit, Schaddai und Rachel sowie zwei kurze untere Hinweise angesehen."
+  ],
+  "121": [
+    "raschi",
+    "Seitliche Erläuterungen zu Jacob/Rachel, מנצפך und langer Hinterkopf-/Augen-Absatz angesehen."
+  ],
+  "122": [
+    "raschi",
+    "Tefillin-Vorspann, Vorbereitung und lange Fußnote mit gedruckter Zusatzkorrektur angesehen."
+  ],
+  "123": [
+    "raschi",
+    "Zwei obere Jichud-Erklärungen und Tefillin-Hand-Anweisung mit Zahlenglosse angesehen."
+  ],
+  "124": [
+    "raschi",
+    "Obere Knoten-/Riemen-Glosse und drei Trennungsanweisungen zwischen Namenfeldern angesehen."
+  ],
+  "125": [
+    "raschi",
+    "Lange Kopf-Tefillin-Einleitung und Zuordnung von 21 Erwähnungen, vier Abschnitten und Häusern angesehen; widersprüchliche Kürzel bleiben offen."
+  ],
+  "126": [
+    "raschi",
+    "Drei Trennungsanweisungen zwischen Namenfeldern angesehen."
+  ],
+  "127": [
+    "raschi",
+    "Rashi-Anweisungen für sämtliche Gebetsabschnitte und unterer Absatz zur Erhebung der Welten angesehen."
+  ],
+  "128": [
+    "raschi",
+    "Fortsetzung der Erhebungsanweisung, langer Absatz zur Gebetshaltung und untere Fußnote angesehen. Komplexe Körper-/Vokalzuordnungen bleiben teilweise fachlich offen."
+  ],
+  "129": [
+    "raschi",
+    "Kurzer Vorsatz und Beschriftungen der Körper-/Sefirot-Tafel angesehen; schematische Namen nicht linear aus OCR ersetzen."
+  ],
+  "130": [
+    "raschi",
+    "Akeda-Vorsatz und zahlreiche kleine Rand-/Inlineglossen der Erzählung angesehen."
+  ],
+  "131": [
+    "raschi",
+    "Akeda-Fortsetzung mit vielen Inlineglossen angesehen. Beschädigte Glosse vor ויבאו bleibt [?]."
+  ],
+  "132": [
+    "raschi",
+    "Akeda-Fortsetzung und erklärende Glossen angesehen; auffälliges bisheriges שפניתיהו nicht frei rekonstruieren, sondern im offenen Apparat führen."
+  ],
+  "133": [
+    "raschi",
+    "Lange Zahlen-/Gewurot-Glosse und erklärender Jacob-Absatz angesehen, Detailausschnitt nachgesehen. Zahl רי״ו und הנז״ל בחסדים sind lesbar; übriger Absatz bleibt offen."
+  ],
+  "134": [
+    "raschi",
+    "Kurze Inlineglossen im ersten Absatz und obere wiederholte Namenreihe angesehen; Haupttext Quadratschrift."
+  ],
+  "135": [
+    "raschi",
+    "Kurze Tikun- und Gefäßbeschriftungen im unteren Tabellenteil angesehen; Hauptgebet Quadratschrift."
+  ],
+  "136": [
+    "raschi",
+    "Vier kurze Tikun-/Bartkorrektur-Zuordnungen angesehen; Name/Gefäßspalten getrennt behandelt."
+  ],
+  "137": [
+    "raschi",
+    "Weitere Tikun-Glossen und mittlerer längerer Absatz zur Milderung angesehen. Unsicherer Absatz bleibt markiert."
+  ],
+  "138": [
+    "raschi",
+    "Obere kurze Tikun-/Funken-Glosse angesehen; anschließendes Gebet Quadratschrift mit kleinen Inlinezuordnungen."
+  ],
+  "139": [
+    "keine_raschi",
+    "Gebet in Quadratschrift; kein Rashi-Fließtext auf dieser Seite."
+  ],
+  "140": [
+    "raschi",
+    "Lange Einleitung zum frühen Schma angesehen. Bisherige Lesung enthält weiterhin zahlreiche nicht ausreichend sicher auflösbare Wörter und bleibt ausdrücklich [?]."
+  ],
+  "141": [
+    "raschi",
+    "Schma-Tafel, seitliche Birurim-Zuordnungen und zwei untere Absätze angesehen. Mehrere beschädigte technische Folgen bleiben offen."
+  ],
+  "142": [
+    "raschi",
+    "Zwei lange Mochin-Absätze und untere Hadassim-Anweisung angesehen; markierte Detailfolgen nicht aus OCR glattziehen."
+  ],
+  "143": [
+    "raschi",
+    "Vorbereitung von Chochma/Bina und Daat, dreispaltige Anweisungen und unterer Mesirut-Nefesch-Absatz angesehen. ודעת im ersten Satz sichtbar."
+  ],
+  "144": [
+    "raschi",
+    "Drei obere nummerierte Anweisungen und unterer Mochin-Absatz angesehen; komplexe dritte Anweisung bleibt markiert."
+  ],
+  "145": [
+    "raschi",
+    "Fast ganzseitiger Aufstiegs-/Siwwug-Text angesehen. Satzanfang המולידים י״ס דמ״ה lesbar; übrige markierte Passagen nur teilweise gesichert."
+  ],
+  "146": [
+    "raschi",
+    "Langer ganzseitiger Mochin-/Zelem-Absatz angesehen. Zahlreiche Kürzel- und Stufenfolgen bleiben offen; kein Ersatz durch neue OCR."
+  ],
+  "147": [
+    "raschi",
+    "Kurze Zwischenzuordnungen und längerer unterer Mochin-Absatz angesehen."
+  ],
+  "148": [
+    "raschi",
+    "Oberer Mochin-Absatz und Beschriftungen der Gefäßtafel angesehen; technische Restunsicherheit bleibt."
+  ],
+  "149": [
+    "raschi",
+    "Anweisungen zu vier Alef, ברוך/כבוד/שם, מלכותו und untere Gefäß-/Zahlenhinweise angesehen."
+  ],
+  "150": [
+    "raschi",
+    "Obere Glossen zu לעולם/ועד und Zwischenabsatz mit Namenfolgen angesehen; Hauptgebet unten Quadratschrift."
+  ],
+  "151": [
+    "raschi",
+    "Kurzer Vorsatz vor יהי רצון und Quellenzeile angesehen; Hauptgebet Quadratschrift."
+  ],
+  "152": [
+    "raschi",
+    "Tamid-Vorspann, צו-Glosse und mittlere Erläuterung mit Zahlen-/Namenfolgen angesehen. Beschädigte Schlussteile bleiben markiert."
+  ],
+  "153": [
+    "raschi",
+    "Lange Aufstiegsfolge, Ketoret-Vorspann und untere Fußnote angesehen; komplexe Fortsetzung bleibt teilweise offen."
+  ],
+  "154": [
+    "raschi",
+    "Ketoret-Glossen zu einzelnen Zutaten, סמים und Gewichten angesehen. Zahlenfolge bei וחלבנה nicht ohne Detailklärung ändern."
+  ],
+  "155": [
+    "raschi",
+    "Mehrere kleine Glossen zu Gewichten, Jom Kippur, elf Zutaten und הצפורן angesehen; vorhandene Restmarker beibehalten."
+  ],
+  "156": [
+    "raschi",
+    "Dichte Inlineglossen der Zutatenliste mit Namen-/Zahlenfolgen angesehen; keine pauschale Ersetzung durch OCR."
+  ],
+  "157": [
+    "raschi",
+    "Glossen zu Salz, Rauch und Jordanwasser sowie Namenreihen angesehen; anschließender Haupttext Quadratschrift."
+  ],
+  "158": [
+    "raschi",
+    "Zwei kurze Inlineglossen zu שאור/דבש angesehen; Rest Ketoret und Reihenfolge der Opfer in Quadratschrift."
+  ],
+  "159": [
+    "raschi",
+    "Anabekoach-Tafel mit sämtlichen kleinen inneren/äußeren Zuordnungen angesehen."
+  ],
+  "160": [
+    "raschi",
+    "Fortsetzung Anabekoach-Tafel mit Sefirot-/Kleidungszuordnungen angesehen."
+  ],
+  "161": [
+    "raschi",
+    "Schluss der Anabekoach-Tafel und kurze untere צפנה-Glosse angesehen; Hauptgebet Quadratschrift."
+  ],
+  "162": [
+    "raschi",
+    "Einleitung איזהו מקומן und zwei längere Hejchalot-Glossen angesehen. Standardisierte Fachfolgen nicht allein anhand neuer OCR rekonstruieren."
+  ],
+  "163": [
+    "raschi",
+    "Zwei lange Hejchalot-Glossen zwischen Mischna-Absätzen angesehen."
+  ],
+  "164": [
+    "raschi",
+    "Zwei lange Glossen zu זבחי שלמי צבור und התודה ואיל נזיר angesehen."
+  ],
+  "165": [
+    "raschi",
+    "Lange Glosse bei שלמים קדשים und kleine Quellenzeile vor den 13 Regeln angesehen."
+  ],
+  "166": [
+    "raschi",
+    "13 Regeln, erste neun, mit zahlreichen kleinen Raschi-Zuordnungen angesehen; beschädigte eingebettete Stufenfolgen bleiben offen."
+  ],
+  "167": [
+    "raschi",
+    "Regeln zehn bis dreizehn mit Glossen und kurze folgende Einleitung angesehen."
+  ],
+  "168": [
+    "raschi",
+    "Kadisch-Einleitung und יתגדל/ויתקדש-Anweisungen samt Fußnotenbeginn angesehen. Bisherige Datei zieht Erläuterungen aus PDF 168–171 unter PDF 168 zusammen."
+  ],
+  "169": [
+    "raschi",
+    "שמיה/רבא-Anweisungen und Fußnotenfortsetzung angesehen; Fußnote bereits unter PDF 168 geführt."
+  ],
+  "170": [
+    "raschi",
+    "Obere Süßungsanweisung, Diagrammglossen und langer Fußnotenmittelteil angesehen. Fußnotenfolge unter PDF 168 konsolidiert."
+  ],
+  "171": [
+    "raschi",
+    "Hauptanweisungen zu den zehn Wörtern, drei Zelem und Milderung sowie Fußnotenabschluss angesehen. Fußnote nicht doppelt ergänzen."
+  ],
+  "172": [
+    "raschi",
+    "אמן-Absatz, seitliche כח-Erklärung und untere 28-Buchstaben-Anweisung angesehen."
+  ],
+  "173": [
+    "raschi",
+    "Mehrere Kadisch-/M-B-Anweisungen rechts neben Namenfeldern angesehen; zahlreiche beschädigte Kürzel bleiben markiert."
+  ],
+  "174": [
+    "raschi",
+    "Kadisch-/M-B-Fortsetzung, untere Anweisungen und zwei Fußnoten angesehen; lange zweite Fußnote physisch auf PDF 175 fortgesetzt, im Text unter PDF 174 zusammengezogen."
+  ],
+  "175": [
+    "raschi",
+    "אמן-Glosse und unterer langer Fußnotenabschluss angesehen; Fußnote gehört zum unter PDF 174 geführten Text."
+  ],
+  "176": [
+    "raschi",
+    "Zwei kurze Zwischenanweisungen bei יהא/שלמא רבא angesehen. Haupt-Kadisch in Quadratschrift."
+  ],
+  "177": [
+    "raschi",
+    "Gedruckte Errata-Tabelle vollständig als Tabelle angesehen. Ihre Einträge bleiben als Quellenkorrekturen erhalten; nicht ungeprüft in anders paginierte Haupttextstellen einarbeiten."
+  ]
+}
