@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-26",
+  "corrections": 56,
+  "changed_elements": 43,
+  "text_pages": 176,
+  "scans_viewed": 177,
+  "rashi_pages": 171,
+  "markers_before": 143,
+  "markers_after": 143,
+  "shem_text_changes": 0,
+  "tags_ids_attributes_preserved": true,
+  "unmodified_elements_unchanged": true,
+  "xml_parse": true,
+  "source_sha256": "d63dfd961cf1cad86f5f647ef6c8b5a7e5cbd2b779f52517689671f1108a8e29",
+  "output_sha256": "994f829fd4ddc93220353ae593475a4b9d41a16ea89dff9b40c1fbc303e5d1a6"
+}

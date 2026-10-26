@@ -1,0 +1,178 @@
+﻿pdf,folio,token_similarity,differences,source_uncertainty_markers,visual_review,font_classification,local_corrections,visual_note
+1,שער — ללא מספור,0.0579,8,0,image-viewed-selective-collation,keine_raschi,0,Titelblatt in Quadratschrift; Namen und Verlagsvermerk gegen Bild angesehen. Stark beschädigte neue OCR nicht als Ersatz verwenden.
+2,,,,,image-viewed-selective-collation,stempelseite,0,Stempelseite; im transkribierten Text absichtlich ausgelassen.
+3,הסכמות — ללא מספור,0.0893,28,0,image-viewed-selective-collation,keine_raschi,0,Haskamot in Quadratschrift. Neue OCR stark beschädigt; keine daraus abgeleiteten Eingriffe.
+4,הסכמות — ללא מספור,0.0782,30,0,image-viewed-selective-collation,keine_raschi,0,"Haskamot und Hejlprin-Abschnitt in Quadratschrift; Bildübersicht kontrolliert, kein Rashi-Fließtext."
+5,הסכמות — ללא מספור,0.0444,14,0,image-viewed-selective-collation,keine_raschi,0,Fortsetzung der Haskamot in Quadratschrift; Namen und Schlussunterschriften gesehen.
+6,"א ע""א",0.3937,63,2,image-viewed-selective-collation,raschi,19,Gesamte Rashi-Übersicht zu Gebetszeiten und Festtagen im Bild angesehen. Mehrere echte Wort-/Stufenfehler außerhalb bisheriger [?]-Stellen. Nicht eindeutig gelesene Formeln bleiben offen.
+7,"א ע""ב",0.3961,66,3,image-viewed-selective-collation,raschi,11,Rashi-Übersicht der Festtage und Aufstiege angesehen; fehlerhafte ältere Kontextkorrektur und weitere sachlich relevante Lesefehler erkannt. Komplexe restliche Sätze nicht frei rekonstruieren.
+8,"ב ע""א",0.4056,64,3,image-viewed-selective-collation,raschi,6,"Rashi-Übersicht, hundert Berachot und Netilat Jadajim angesehen. Mehrere falsche gewöhnliche Wörter im bisherigen Text; untere Zahlen-/Namenfolge weiterhin schwer lesbar."
+9,"ב ע""ב",0.3841,87,1,image-viewed-selective-collation,raschi,0,"Einleitungsabsatz, וכה יעשה, Netila-Anweisung und Fußnotenverweis angesehen. Neue OCR verstümmelt viele Fachabkürzungen; der lange unsichere Anfang bleibt offen."
+10,"ג ע""א",0.2809,39,0,image-viewed-selective-collation,raschi,1,"Anweisungen für sechs Güsse und drei Reibungen geprüft. Der Anschluss vor שפשוף א' lautet ואח""כ ישפשף, nicht וחו""ב שטפים."
+11,"ג ע""ב",0.1008,13,3,image-viewed-selective-collation,raschi,0,Rashi-Einleitung über Ibbur und Beginn der Fußnote kontrolliert; Rest der Seite sind Namen-/Vokaltabellen. Achtung: bisheriger Text zieht die physisch über PDF 11–14 laufende Fußnote unter PDF 11 zusammen.
+12,"ד ע""א",0.3125,35,0,image-viewed-selective-collation,raschi,0,Hebung der Hände und Beracha-Vorspann kontrolliert. Fußnotenfortsetzung unten gehört zum unter PDF 11 zusammengezogenen Text; nicht als fehlender neuer Absatz doppelt ergänzen.
+13,"ד ע""ב",0.1383,18,1,image-viewed-selective-collation,raschi,0,Kurze Anweisungen bei אתה und zu Malchut/Tewuna angesehen. Fußnotenfortsetzung unten gehört zur übergreifenden Fußnote PDF 11–14; unklare Stufenabkürzung bleibt offen.
+14,"ה ע""א",0.1719,10,0,image-viewed-selective-collation,raschi,0,Kurze Mochin-/Miluim-Anweisungen und ausführlicher Fußnotenabschluss unten angesehen. Die große Differenz entsteht teilweise durch die bisherige Zusammenziehung unter PDF 11; genaue Zitierstellen weiterhin ungesichert.
+15,"ה ע""ב",0.1837,18,0,image-viewed-selective-collation,raschi,0,Oberer Vorspann zu zwei Zelem-Mochin und kleine Zuordnungen bei אלהינו kontrolliert. Namen-Grafik nicht aus linearer OCR normalisieren.
+16,"ו ע""א",0.2349,30,1,image-viewed-selective-collation,raschi,0,Vorspann und Anweisungen bei אשר/קדשנו sowie untere Stufenzuordnung angesehen. Pauschale OCR-Abweichungen an Namen und Füllungen nicht übernommen.
+17,"ו ע""ב",0.433,32,2,image-viewed-selective-collation,raschi,1,"Anweisungen bei במצותיו/וצונו/על נטילת ידים und K-L/M-B-Abschnitte kontrolliert. לחג""ת וחב""ד im Makifim-Absatz deutlich; frühere Lesung לנה""ח verworfen."
+18,"ז ע""א",0.5222,51,1,image-viewed-selective-collation,raschi,0,Oberer Netila-Absatz und untere Birkurim-Anweisungen angesehen; lange Toilettenanweisung in Quadratschrift. Zahlen- und Schlusswortunsicherheit im oberen Absatz bleibt.
+19,"ז ע""ב",0.2043,34,4,image-viewed-selective-collation,raschi,2,"Makifim-Vorspann und Beginn der Fußnote kontrolliert. Scan nennt לחג""ת וחב""ד und לתקן את חו""ב; die ältere Kontextänderung או""א wird durch Bildlesung ersetzt. Fußnote läuft weiter über Folgeseiten."
+20,"ח ע""א",0.2055,18,0,image-viewed-selective-collation,raschi,0,"Kurze Anweisungen bei אתה, Malchut und M-B von A-B angesehen. Fußnotenfortsetzung unten ist im bisherigen Text unter PDF 19 zusammengezogen."
+21,"ח ע""ב",0.1711,13,0,image-viewed-selective-collation,raschi,0,Kurze Anweisungen zu M-B von M-H und zwei Zelem-Mochin kontrolliert. Fußnotenfortsetzung unten nicht als eigenständigen verlorenen Text neu anlegen.
+22,"ט ע""א",0.2918,22,0,image-viewed-selective-collation,raschi,0,Kurzglosse bei אלהינו und längerer Vorspann מלך העולם angesehen. Untere Fußnotenfortsetzung gehört zum unter PDF 19 konsolidierten Text.
+23,"ט ע""ב",0.2667,29,0,image-viewed-selective-collation,raschi,1,"Siwwug-Anweisung, Makifim und Randglossen des Ascher-Jazar-Textes kontrolliert. לחג""ת im Makifim-Abschnitt lesbar. Fußnotenabschluss unten unter PDF 19 zusammengezogen."
+24,"י ע""א",0.3548,44,3,image-viewed-selective-collation,raschi,1,"Elohai-Neschama-Vorspann, langer Birkurim-Absatz und kleine Randglossen angesehen. Untere Fußnote wird in der bisherigen Fassung über mehrere Zeilen zusammengezogen; beschädigte Quellenabkürzungen bleiben offen."
+25,"י ע""ב",0.285,32,2,image-viewed-selective-collation,raschi,0,"Kleine Stufenzuordnung oben, Glossen zu אלהי נשמה und Rashi-Vorspann der 18 Berachot kontrolliert. Fußnote unten setzt die zuvor begonnene Fußnote fort; keine OCR-bedingte Doppelergänzung."
+26,"יא ע""א",0.2646,36,1,image-viewed-selective-collation,raschi,0,Langer Rashi-Vorsatz zu den 18 Berachot und kurzer Keter-Vorspann angesehen. Die bisherigen beschädigten Sätze bleiben markiert; Tabellen-Namen nicht anhand linearer OCR umordnen.
+27,"יא ע""ב",0.1553,18,0,image-viewed-selective-collation,raschi,0,"Kurzglossen bei אתה, Malchut/Tewuna und M-B von A-B angesehen; große Namenfelder sind Quadratschrift. Fußnotenabschluss zur vorangehenden Diskussion bleibt quellenkritisch offen."
+28,"יב ע""א",0.1824,15,0,image-viewed-selective-collation,raschi,0,Kurze Zuordnungen zwischen M-B-Tabellen und Zelem-Aufstieg angesehen. Keine sichere zusätzliche Textänderung aus den sichtbaren Einzelabkürzungen abgeleitet.
+29,"יב ע""ב",0.3716,33,1,image-viewed-selective-collation,raschi,0,Langer Vorspann מלך העולם und Fortsetzung des markierten Mochin-Absatzes geprüft. Zahlreiche OCR-Störungen in Stufen-/Namenfolgen; keine freie Rekonstruktion des gesamten Absatzes.
+30,"יג ע""א",0.268,30,0,image-viewed-selective-collation,raschi,0,"Fortsetzung des markierten Absatzes, Stufenzuordnung und Notiz zur Milderung der Gewurot angesehen. Grafik-/Namenzeilen sind keine zuverlässige lineare OCR-Referenz."
+31,"יג ע""ב",0.1355,22,0,image-viewed-selective-collation,raschi,0,Kurzer Beracha-Vorspann und Glossen zu Siwwug/Malchut kontrolliert. Keine ausreichend sichere neue Lesung eingesetzt.
+32,"יד ע""א",0.2572,20,0,image-viewed-selective-collation,raschi,0,Kurze Anweisungen zu Malchut und drei Füllungen sowie Zelem-Aufstieg angesehen; Namenfelder unverändert. Keine pauschale Glättung der wiederholten Fachabkürzungen.
+33,"יד ע""ב",0.1138,9,0,image-viewed-selective-collation,raschi,0,Kleine Stufenzuordnung unten und S-G-Glosse bei אלהינו angesehen; übrige Seite Namen-/Zelem-Grafik.
+34,"טו ע""א",0.371,36,0,image-viewed-selective-collation,raschi,0,Langer מלך העולם-Vorspann und anschließender Mochin-Absatz zur Keter-Serie angesehen. Komplexe Kürzel nicht aus fehlerhafter OCR pauschal ersetzen.
+35,"טו ע""ב",0.2232,26,0,image-viewed-selective-collation,raschi,0,Keter-Stufenzuordnung oben und Vorspann פוקח עורים samt Siwwug-Beschriftungen angesehen.
+36,"טז ע""א",0.1993,20,0,image-viewed-selective-collation,raschi,0,Kurzglossen bei אתה/Malchut und M-B von A-B angesehen; Namenfelder nicht neu linearisiert.
+37,"טז ע""ב",0.2006,14,0,image-viewed-selective-collation,raschi,0,M-H-Miluim-Glosse und wiederholter Zelem-Aufstieg zwischen den Tabellen kontrolliert.
+38,"יז ע""א",0.2874,35,0,image-viewed-selective-collation,raschi,0,Glossen bei אלהינו und מלך העולם sowie längere Chochma-Mochin-Anweisung angesehen; Namendiagramm unverändert.
+39,"יז ע""ב",0.2133,16,0,image-viewed-selective-collation,raschi,0,Kurze Stufenzuordnung und Vorspann מתיר אסורים einschließlich Makifim-Beschriftung angesehen.
+40,"יח ע""א",0.1566,19,0,image-viewed-selective-collation,raschi,0,"Kurzglossen zu Siwwug, Malchut/Tewuna und M-B von A-B angesehen. Kein hinreichend belegter neuer Wortersatz."
+41,"יח ע""ב",0.3173,20,0,image-viewed-selective-collation,raschi,0,M-B-/M-H-Zuordnungen und kurzer Zelem-Aufstieg angesehen. Wiederholtes Schema bleibt ohne OCR-bedingte Vereinheitlichung.
+42,"יט ע""א",0.3327,33,0,image-viewed-selective-collation,raschi,0,Glosse bei אלהינו und längerer מלך העולם-Absatz in der Chochma-Serie angesehen.
+43,"יט ע""ב",0.343,28,1,image-viewed-selective-collation,raschi,1,"Langer Mochin-Absatz oben, Vorspann זוקף כפופים und חשמל-Satz unten angesehen. Die bisherige Folge טו""ב לבושין כורין מלאין entspricht nicht dem gedruckten Satz zu נהורין."
+44,"כ ע""א",0.1496,22,0,image-viewed-selective-collation,raschi,0,Kurzglossen bei אתה und Malchut/Tewuna kontrolliert; sonst überwiegend Namenfelder.
+45,"כ ע""ב",0.2947,19,0,image-viewed-selective-collation,raschi,0,M-B-/M-H-Glossen und kurzer Zelem-Aufstieg zwischen den Namenfeldern angesehen.
+46,"כא ע""א",0.2216,22,0,image-viewed-selective-collation,raschi,0,"Glosse bei אלהינו, Stufenzuordnung und Anfang des מלך העולם-Vorspanns angesehen."
+47,"כא ע""ב",0.2836,43,1,image-viewed-selective-collation,raschi,0,"Fortgesetzter Siwwug-Absatz, Bina-Mochin und Beschriftungen zu חיוורתי/נהורין angesehen. Markierte Zahl in der Tabelle nicht aus der OCR ersetzen."
+48,"כב ע""א",0.187,23,1,image-viewed-selective-collation,raschi,1,Vorspann zu einer zusätzlichen Beracha und חשמל-Satz angesehen. Die Parallelstelle zu PDF 43 bestätigt נהורין; verbleibender Marker bleibt für den schwierigen Gesamtausdruck.
+49,"כב ע""ב",0.2733,23,0,image-viewed-selective-collation,raschi,0,"Kurze Glossen zu Malchut, M-B und Zelem-Aufstieg angesehen; übrige Seite Namenfelder."
+50,"כג ע""א",0.12,12,0,image-viewed-selective-collation,raschi,0,Glosse bei אלהינו und מלך העולם-Vorspann mit Bina-Serie angesehen. Unterer Fußnotenabschnitt beginnt die längere Diskussion aus עלי נהר.
+51,"כג ע""ב",0.2248,28,3,image-viewed-selective-collation,raschi,0,Fortgesetzter Bina-Mochin-Absatz und Vorspann הנותן ליעף כח kontrolliert. Die unten gedruckte Fußnote wird in der bisherigen Fassung unter dieser Seite zusammengezogen.
+52,"כד ע""א",0.2415,22,1,image-viewed-selective-collation,raschi,0,Siwwug-/Malchut-Kurzglossen und חשמל-Beschriftung oben kontrolliert. Untere Fußnotenfortsetzung gehört zum bereits konsolidierten Kommentar.
+53,"כד ע""ב",0.1314,17,0,image-viewed-selective-collation,raschi,0,"Kurze M-B-/M-H-Zuordnungen und Zelem-Aufstieg angesehen; unten weitere Fußnotenfortsetzung, keine neue unabhängige Anweisung."
+54,"כה ע""א",0.2897,22,0,image-viewed-selective-collation,raschi,0,אלהינו-Glosse und langer מלך העולם-Absatz in der Chessed-Serie angesehen. Unterer Text ist Fortsetzung der Schabbat-/Morgenberachot-Diskussion.
+55,"כה ע""ב",0.201,23,0,image-viewed-selective-collation,raschi,0,Chessed-Mochin-Absatz und Vorspann רוקע הארץ על המים angesehen. Untere Fußnotenfortsetzung wird nicht aus OCR-Mutmaßungen geglättet.
+56,"כו ע""א",0.2645,29,0,image-viewed-selective-collation,raschi,0,Siwwug-/Malchut-Glossen und langer Fußnotenabschnitt unten angesehen. Die Fußnote erklärt den Abstieg der Kelim; bibliographischer Wortlaut bleibt teilweise offen.
+57,"כו ע""ב",0.1924,28,0,image-viewed-selective-collation,raschi,0,"Vorspann המכין מצעדי גבר, kurze Siwwug-Glossen und unten fortlaufende Fußnote angesehen."
+58,"כז ע""א",0.1975,15,0,image-viewed-selective-collation,raschi,0,Kurzglossen zu Malchut und M-B sowie Fußnotenfortsetzung unten angesehen; keine sichere zusätzliche Einzelkorrektur.
+59,"כז ע""ב",0.0802,10,0,image-viewed-selective-collation,raschi,0,Zelem-Aufstieg oben und langer Abschluss der über mehrere Seiten laufenden Fußnote unten angesehen. Die Gegenüberstellung zeigt vor allem Anordnungs- und OCR-Unterschiede.
+60,"כח ע""א",0.3534,42,0,image-viewed-selective-collation,raschi,0,Glosse bei אלהינו und מלך העולם-Absatz der Chessed-Serie angesehen; Tabellen nicht aus OCR umordnen.
+61,"כח ע""ב",0.2584,19,0,image-viewed-selective-collation,raschi,0,Abschluss der Chessed-Mochin-Anweisung und Vorspann אוזר ישראל בגבורה kontrolliert.
+62,"כט ע""א",0.135,15,0,image-viewed-selective-collation,raschi,0,Kurze Siwwug-/Malchut-Zuordnungen angesehen; Namen-/Vokalspalten unverändert.
+63,"כט ע""ב",0.2517,19,0,image-viewed-selective-collation,raschi,0,M-B-/M-H-Anweisungen und Zelem-Aufstieg zwischen großen Namenfeldern angesehen.
+64,"ל ע""א",0.2303,33,0,image-viewed-selective-collation,raschi,0,"אלהינו-Glosse und langer מלך העולם-Absatz zur Gewura-Serie angesehen; untere Fortsetzung befindet sich auf der Folgeseite, kein erfundener Abschluss."
+65,"ל ע""ב",0.3691,41,0,image-viewed-selective-collation,raschi,0,"Fortsetzung der Gewura-Mochin und langer Absatz zur Ausdehnung des Chaschmals bis unter die Füße, einschließlich נעל-Zuordnung, angesehen."
+66,"לא ע""א",0.1422,20,0,image-viewed-selective-collation,raschi,0,Vorspann zur Gewura-Serie und kurze Siwwug-Glossen angesehen.
+67,"לא ע""ב",0.2508,24,0,image-viewed-selective-collation,raschi,0,"Kurze Malchut-, Miluim- und Zelem-Anweisungen zwischen Namenfeldern angesehen."
+68,"לב ע""א",0.119,13,0,image-viewed-selective-collation,raschi,0,Kurze Zuordnungen bei אלהינו und unter den Miluim angesehen; Namengrafik separat behandeln.
+69,"לב ע""ב",0.3661,41,0,image-viewed-selective-collation,raschi,0,Langer מלך העולם-Vorspann und anschließende Gewura-Mochin-Folge angesehen. Fachkürzel bleiben ohne erzwungene Vereinheitlichung.
+70,"לג ע""א",0.2353,33,0,image-viewed-selective-collation,raschi,0,"Ende der Gewura-Serie, Absatz zur H-G-Ausstrahlung und Vorspann der Tiferet-Serie angesehen."
+71,"לג ע""ב",0.2075,22,0,image-viewed-selective-collation,raschi,0,"Kurze Siwwug-, Malchut- und Miluim-Glossen angesehen."
+72,"לד ע""א",0.1975,19,0,image-viewed-selective-collation,raschi,0,"Kurze Zelem-, M-B- und Stufenzuordnungen angesehen."
+73,"לד ע""ב",0.3728,44,1,image-viewed-selective-collation,raschi,1,מלך העולם und Tiferet-Mochin angesehen; Ziel der ersten Aufstiegsfolge ist או״א. Die stark beschädigte Folgelesung bleibt [?].
+74,"לה ע""א",0.2027,29,0,image-viewed-selective-collation,raschi,0,"Tiferet-Abschluss, עוטר ישראל בתפארה und neuer Vorspann angesehen."
+75,"לה ע""ב",0.2222,23,0,image-viewed-selective-collation,raschi,0,"Kurzglossen zu אתה, Malchut und Miluim angesehen."
+76,"לו ע""א",0.1638,13,0,image-viewed-selective-collation,raschi,0,Zelem-Aufstieg und kurze אלהינו-Glosse angesehen; keine Umordnung der Namenfelder.
+77,"לו ע""ב",0.4187,46,0,image-viewed-selective-collation,raschi,1,Langer Tiferet-Vorspann und Mochin-Absatz angesehen; או״א in der ersten Aufstiegsfolge sichtbar.
+78,"לז ע""א",0.2198,18,0,image-viewed-selective-collation,raschi,0,"Tiferet-Abschluss, שלא עשני גוי und Nezach-Vorspann angesehen."
+79,"לז ע""ב",0.1526,20,0,image-viewed-selective-collation,raschi,0,"Kurzglossen zu Siwwug, Malchut und Miluim angesehen."
+80,"לח ע""א",0.2099,16,0,image-viewed-selective-collation,raschi,0,M-H-Miluim und Zelem-Aufstieg angesehen; Tabellen nicht aus OCR normalisieren.
+81,"לח ע""ב",0.3977,44,1,image-viewed-selective-collation,raschi,1,מלך העולם-Vorspann der Nezach-Serie und folgender Mochin-Absatz angesehen. Erste Zielstufe או״א; stark beschädigte Fortsetzung bleibt offen.
+82,"לט ע""א",0.1949,24,0,image-viewed-selective-collation,raschi,0,"Nezach-Abschluss, שלא עשני עבד und neuer Beracha-Vorspann angesehen; gedruckte Stufenbezeichnungen nicht allein aus Parallelstellen berichtigen."
+83,"לט ע""ב",0.1723,22,0,image-viewed-selective-collation,raschi,0,"Kurzglossen bei אתה, Malchut und Miluim angesehen."
+84,"מ ע""א",0.1948,13,0,image-viewed-selective-collation,raschi,0,M-H- und Zelem-Glossen angesehen.
+85,"מ ע""ב",0.228,35,1,image-viewed-selective-collation,raschi,1,מלך העולם-Vorspann und Hodot-Mochin-Folge angesehen; erste Zielstufe או״א statt verkürztem א״א.
+86,"מא ע""א",0.1038,10,0,image-viewed-selective-collation,raschi,0,"Abschluss, שלא עשני אשה und neuer Beracha-Vorspann angesehen. Auch widersprüchliche gedruckte Nezach-Bezeichnungen nicht stillschweigend harmonisieren."
+87,"מא ע""ב",0.2,24,0,image-viewed-selective-collation,raschi,0,Kurzglossen zu Siwwug/Malchut und Miluim angesehen.
+88,"מב ע""א",0.1184,14,0,image-viewed-selective-collation,raschi,0,M-H-Miluim und kurzer Zelem-Aufstieg angesehen.
+89,"מב ע""ב",0.4466,37,1,image-viewed-selective-collation,raschi,1,"Langer מלך העולם- und Mochin-Absatz angesehen; Nezach-Bezeichnung steht auch im Bild, trotz Nachbarseiten mit Hodot. Zielstufe או״א korrigierbar."
+90,"מג ע""א",0.1319,17,0,image-viewed-selective-collation,raschi,0,Schluss der Mochin-Serie und die beiden längeren Glossen bei המעביר/ותנומה angesehen; restliches Gebet Quadratschrift.
+91,"מג ע""ב",0.2894,32,1,image-viewed-selective-collation,raschi,0,Langer Rashi-Vorspann der Toraberacha angesehen; stark beschädigter Schlusssatz bleibt [?].
+92,"מד ע""א",0.1751,16,0,image-viewed-selective-collation,raschi,0,"Kurzglossen zu Siwwug, אתה und Malchut angesehen."
+93,"מד ע""ב",0.2222,19,0,image-viewed-selective-collation,raschi,0,Miluim- und Zelem-Anweisungen zwischen Namenfeldern angesehen.
+94,"מה ע""א",0.228,42,2,image-viewed-selective-collation,raschi,1,"מלך העולם und längerer Aufstieg zur Toraberacha samt Beginn der Fußnote angesehen. Fußnote läuft physisch über PDF 94–96, ist im Text unter PDF 94 konsolidiert."
+95,"מה ע""ב",0.214,19,1,image-viewed-selective-collation,raschi,0,Fortsetzung der Hauptanweisung und Mochin-Absatz sowie Fußnotenfortsetzung unten angesehen. Keine doppelte Ergänzung der Fußnote.
+96,"מו ע""א",0.166,13,0,image-viewed-selective-collation,raschi,0,Glossen zu אשר/קדשנו/במצותיו und Fußnotenabschluss angesehen; Lesung technischer Kürzel teilweise offen.
+97,"מו ע""ב",0.3645,47,1,image-viewed-selective-collation,raschi,1,"Glossen zu וצונו/על דברי תורה, Beginn der יסודות-Aufstiegsfolge und Fußnotenbeginn angesehen. Erste Zielstufe או״א."
+98,"מז ע""א",0.3376,24,1,image-viewed-selective-collation,raschi,0,"Mochin- und Zelem-Abschluss, neue Beracha-Einleitung sowie Fußnotenfortsetzung angesehen. Fortsetzung ist im Text unter PDF 97 konsolidiert."
+99,"מז ע""ב",0.1374,19,0,image-viewed-selective-collation,raschi,0,"Kurzglossen zu Siwwug, אתה und Malchut angesehen."
+100,"מח ע""א",0.2507,22,0,image-viewed-selective-collation,raschi,0,Miluim- und Zelem-Anweisungen angesehen; Namendiagramme unverändert.
+101,"מח ע""ב",0.178,17,0,image-viewed-selective-collation,raschi,1,אלהינו-Glosse und מלך העולם mit beginnender יסודות-Aufstiegsfolge angesehen; או״א im Schluss sichtbar.
+102,"מט ע""א",0.2715,33,0,image-viewed-selective-collation,raschi,0,Fortsetzung der Aufstiegsfolge und Mochin-Absatz sowie Abschluss der Toraberacha angesehen.
+103,"מט ע""ב",0.479,65,0,image-viewed-selective-collation,raschi,0,Langer Mezuzah-/Synagogeneintrittsabsatz und untere Fußnote angesehen. Gedruckte Anweisungen nicht nach heutiger Erwartung umformulieren.
+104,"נ ע""א",0.4102,56,0,image-viewed-selective-collation,raschi,0,Einleitung und drei Rashi-Anweisungen zu den Umkreisungen angesehen; kleine alternative Zuordnungen in Klammern mitgesehen.
+105,"נ ע""ב",0.3911,43,0,image-viewed-selective-collation,raschi,0,Vier weitere Umkreisungsanweisungen samt alternativen Stufenzuordnungen angesehen.
+106,"נא ע""א",0.471,102,0,image-viewed-selective-collation,raschi,0,Langes allgemeines Gebet und Beginn der Leschem-Jichud-Erklärung angesehen. Dichter Rashi-Fließtext; die Übersicht ersetzt keine vollständige Fachkollation jedes Kürzels.
+107,"נא ע""ב",0.368,94,0,image-viewed-selective-collation,raschi,0,Fortgesetzte lange Erklärung und fünf Zuordnungen von Handlung/Sprache/Kawwana/Gedanke angesehen; technische Serien nicht frei rekonstruieren.
+108,"נב ע""א",0.5887,105,0,image-viewed-selective-collation,raschi,0,"Ratzon-Absatz, Leschem-Jichud und langer Gebotskatalog angesehen. Zitate und Abkürzungen nur bei belastbarem Bildbeleg ändern."
+109,"נב ע""ב",0.5938,97,0,image-viewed-selective-collation,raschi,0,"Fortsetzung des Gebotskatalogs, Tefillin-Zuordnungen und Schlussbitte angesehen. Mehrfachkombinationen der Namen getrennt vom OCR-Wortvergleich behandeln."
+110,"נג ע""א",0.6239,103,0,image-viewed-selective-collation,raschi,0,"Gebetsfortsetzung, Glaubensbekenntnis und unterer Tallit-Vorspann angesehen."
+111,"נג ע""ב",0.1381,20,0,image-viewed-selective-collation,raschi,0,Kurzglossen zu Siwwug und אתה angesehen.
+112,"נד ע""א",0.2832,23,0,image-viewed-selective-collation,raschi,0,Miluim- und Zelem-Aufstieg angesehen; übrige Namenfelder.
+113,"נד ע""ב",0.2122,30,0,image-viewed-selective-collation,raschi,0,"מלך העולם-Vorspann zur Mizwa angesehen. Folgender Abschnitt וכעד״ז wird im Text bereits hier geführt, physisch beginnt er erst auf PDF 114."
+114,"נה ע""א",0.3146,26,0,image-viewed-selective-collation,raschi,0,Lange Aufstiegsfortsetzung und Anweisungen bei אשר/קדשנו/במצותיו angesehen. Haupttext teilweise unter PDF 113 zusammengezogen; Vergleichsabweichung deshalb auch Layout.
+115,"נה ע""ב",0.6117,53,0,image-viewed-selective-collation,raschi,0,"Glossen zu וצונו/להתעטף, Vorbereitung und ausführliche Tallit-katan-Mochin angesehen; dichtes technisches Namensschema bleibt fachlich teilweise offen."
+116,"נו ע""א",0.1439,19,0,image-viewed-selective-collation,raschi,0,Kurze Zell-/Gefäßbeschriftungen und unterer Absatz zu Haararten angesehen; Namengrafik nicht aus OCR neu ordnen.
+117,"נו ע""ב",0.4444,49,0,image-viewed-selective-collation,raschi,0,"Oberer Tzitzit-Absatz, Hodot-Tallit und zwei lange Tallit-gadol-Mochin-Absätze angesehen; Fachnamen nicht kontextuell vereinheitlichen."
+118,"נז ע""א",0.1626,27,0,image-viewed-selective-collation,raschi,0,Einleitende Etifa-Anweisung und kleine Stufenglossen zwischen Namenfeldern angesehen.
+119,"נז ע""ב",0.1639,27,1,image-viewed-selective-collation,raschi,1,"Haararten-Absatz, יחידה-Glosse und untere Techelet-Glosse angesehen. קולין statt קוצין im ersten Absatz lesbar; abgebrochenes Ende bleibt markiert."
+120,"נח ע""א",0.3359,26,0,image-viewed-selective-collation,raschi,0,"Vier seitliche Erläuterungen zu Lichtern, Tzitzit, Schaddai und Rachel sowie zwei kurze untere Hinweise angesehen."
+121,"נח ע""ב",0.2882,37,0,image-viewed-selective-collation,raschi,0,"Seitliche Erläuterungen zu Jacob/Rachel, מנצפך und langer Hinterkopf-/Augen-Absatz angesehen."
+122,"נט ע""א",0.3213,55,0,image-viewed-selective-collation,raschi,0,"Tefillin-Vorspann, Vorbereitung und lange Fußnote mit gedruckter Zusatzkorrektur angesehen."
+123,"נט ע""ב",0.2533,40,0,image-viewed-selective-collation,raschi,0,Zwei obere Jichud-Erklärungen und Tefillin-Hand-Anweisung mit Zahlenglosse angesehen.
+124,"ס ע""א",0.3215,17,0,image-viewed-selective-collation,raschi,0,Obere Knoten-/Riemen-Glosse und drei Trennungsanweisungen zwischen Namenfeldern angesehen.
+125,"ס ע""ב",0.4404,49,1,image-viewed-selective-collation,raschi,0,"Lange Kopf-Tefillin-Einleitung und Zuordnung von 21 Erwähnungen, vier Abschnitten und Häusern angesehen; widersprüchliche Kürzel bleiben offen."
+126,"סא ע""א",0.1709,7,0,image-viewed-selective-collation,raschi,0,Drei Trennungsanweisungen zwischen Namenfeldern angesehen.
+127,"סא ע""ב",0.5047,67,0,image-viewed-selective-collation,raschi,0,Rashi-Anweisungen für sämtliche Gebetsabschnitte und unterer Absatz zur Erhebung der Welten angesehen.
+128,"סב ע""א",0.5091,90,0,image-viewed-selective-collation,raschi,0,"Fortsetzung der Erhebungsanweisung, langer Absatz zur Gebetshaltung und untere Fußnote angesehen. Komplexe Körper-/Vokalzuordnungen bleiben teilweise fachlich offen."
+129,"סב ע""ב",0.1705,39,1,image-viewed-selective-collation,raschi,0,Kurzer Vorsatz und Beschriftungen der Körper-/Sefirot-Tafel angesehen; schematische Namen nicht linear aus OCR ersetzen.
+130,"סג ע""א",0.1059,16,0,image-viewed-selective-collation,raschi,0,Akeda-Vorsatz und zahlreiche kleine Rand-/Inlineglossen der Erzählung angesehen.
+131,"סג ע""ב",0.0958,15,1,image-viewed-selective-collation,raschi,0,Akeda-Fortsetzung mit vielen Inlineglossen angesehen. Beschädigte Glosse vor ויבאו bleibt [?].
+132,"סד ע""א",0.1008,17,0,image-viewed-selective-collation,raschi,0,"Akeda-Fortsetzung und erklärende Glossen angesehen; auffälliges bisheriges שפניתיהו nicht frei rekonstruieren, sondern im offenen Apparat führen."
+133,"סד ע""ב",0.1974,24,2,image-viewed-selective-collation,raschi,1,"Lange Zahlen-/Gewurot-Glosse und erklärender Jacob-Absatz angesehen, Detailausschnitt nachgesehen. Zahl רי״ו und הנז״ל בחסדים sind lesbar; übriger Absatz bleibt offen."
+134,"סה ע""א",0.0347,7,0,image-viewed-selective-collation,raschi,0,Kurze Inlineglossen im ersten Absatz und obere wiederholte Namenreihe angesehen; Haupttext Quadratschrift.
+135,"סה ע""ב",0.0344,5,1,image-viewed-selective-collation,raschi,0,Kurze Tikun- und Gefäßbeschriftungen im unteren Tabellenteil angesehen; Hauptgebet Quadratschrift.
+136,"סו ע""א",0.055,7,1,image-viewed-selective-collation,raschi,0,Vier kurze Tikun-/Bartkorrektur-Zuordnungen angesehen; Name/Gefäßspalten getrennt behandelt.
+137,"סו ע""ב",0.1002,15,2,image-viewed-selective-collation,raschi,0,Weitere Tikun-Glossen und mittlerer längerer Absatz zur Milderung angesehen. Unsicherer Absatz bleibt markiert.
+138,"סז ע""א",0.0593,12,0,image-viewed-selective-collation,raschi,0,Obere kurze Tikun-/Funken-Glosse angesehen; anschließendes Gebet Quadratschrift mit kleinen Inlinezuordnungen.
+139,"סז ע""ב",0.0177,4,0,image-viewed-selective-collation,keine_raschi,0,Gebet in Quadratschrift; kein Rashi-Fließtext auf dieser Seite.
+140,"סח ע""א",0.4793,90,1,image-viewed-selective-collation,raschi,0,Lange Einleitung zum frühen Schma angesehen. Bisherige Lesung enthält weiterhin zahlreiche nicht ausreichend sicher auflösbare Wörter und bleibt ausdrücklich [?].
+141,"סח ע""ב",0.1348,22,4,image-viewed-selective-collation,raschi,0,"Schma-Tafel, seitliche Birurim-Zuordnungen und zwei untere Absätze angesehen. Mehrere beschädigte technische Folgen bleiben offen."
+142,"סט ע""א",0.3305,43,4,image-viewed-selective-collation,raschi,0,Zwei lange Mochin-Absätze und untere Hadassim-Anweisung angesehen; markierte Detailfolgen nicht aus OCR glattziehen.
+143,"סט ע""ב",0.2448,49,2,image-viewed-selective-collation,raschi,1,"Vorbereitung von Chochma/Bina und Daat, dreispaltige Anweisungen und unterer Mesirut-Nefesch-Absatz angesehen. ודעת im ersten Satz sichtbar."
+144,"ע ע""א",0.1154,17,2,image-viewed-selective-collation,raschi,0,Drei obere nummerierte Anweisungen und unterer Mochin-Absatz angesehen; komplexe dritte Anweisung bleibt markiert.
+145,"ע ע""ב",0.2707,53,5,image-viewed-selective-collation,raschi,1,Fast ganzseitiger Aufstiegs-/Siwwug-Text angesehen. Satzanfang המולידים י״ס דמ״ה lesbar; übrige markierte Passagen nur teilweise gesichert.
+146,"עא ע""א",0.2847,47,1,image-viewed-selective-collation,raschi,0,Langer ganzseitiger Mochin-/Zelem-Absatz angesehen. Zahlreiche Kürzel- und Stufenfolgen bleiben offen; kein Ersatz durch neue OCR.
+147,"עא ע""ב",0.24,19,2,image-viewed-selective-collation,raschi,0,Kurze Zwischenzuordnungen und längerer unterer Mochin-Absatz angesehen.
+148,"עב ע""א",0.0781,17,1,image-viewed-selective-collation,raschi,0,Oberer Mochin-Absatz und Beschriftungen der Gefäßtafel angesehen; technische Restunsicherheit bleibt.
+149,"עב ע""ב",0.2665,45,7,image-viewed-selective-collation,raschi,0,"Anweisungen zu vier Alef, ברוך/כבוד/שם, מלכותו und untere Gefäß-/Zahlenhinweise angesehen."
+150,"עג ע""א",0.1382,22,1,image-viewed-selective-collation,raschi,0,Obere Glossen zu לעולם/ועד und Zwischenabsatz mit Namenfolgen angesehen; Hauptgebet unten Quadratschrift.
+151,"עג ע""ב",0.0831,9,1,image-viewed-selective-collation,raschi,0,Kurzer Vorsatz vor יהי רצון und Quellenzeile angesehen; Hauptgebet Quadratschrift.
+152,"עד ע""א",0.206,34,4,image-viewed-selective-collation,raschi,0,"Tamid-Vorspann, צו-Glosse und mittlere Erläuterung mit Zahlen-/Namenfolgen angesehen. Beschädigte Schlussteile bleiben markiert."
+153,"עד ע""ב",0.3149,46,5,image-viewed-selective-collation,raschi,0,"Lange Aufstiegsfolge, Ketoret-Vorspann und untere Fußnote angesehen; komplexe Fortsetzung bleibt teilweise offen."
+154,"עה ע""א",0.0998,17,4,image-viewed-selective-collation,raschi,0,"Ketoret-Glossen zu einzelnen Zutaten, סמים und Gewichten angesehen. Zahlenfolge bei וחלבנה nicht ohne Detailklärung ändern."
+155,"עה ע""ב",0.0613,20,1,image-viewed-selective-collation,raschi,0,"Mehrere kleine Glossen zu Gewichten, Jom Kippur, elf Zutaten und הצפורן angesehen; vorhandene Restmarker beibehalten."
+156,"עו ע""א",0.229,38,3,image-viewed-selective-collation,raschi,0,Dichte Inlineglossen der Zutatenliste mit Namen-/Zahlenfolgen angesehen; keine pauschale Ersetzung durch OCR.
+157,"עו ע""ב",0.0458,11,2,image-viewed-selective-collation,raschi,0,"Glossen zu Salz, Rauch und Jordanwasser sowie Namenreihen angesehen; anschließender Haupttext Quadratschrift."
+158,"עז ע""א",0.037,6,0,image-viewed-selective-collation,raschi,0,Zwei kurze Inlineglossen zu שאור/דבש angesehen; Rest Ketoret und Reihenfolge der Opfer in Quadratschrift.
+159,"עז ע""ב",0.0934,23,2,image-viewed-selective-collation,raschi,0,Anabekoach-Tafel mit sämtlichen kleinen inneren/äußeren Zuordnungen angesehen.
+160,"עח ע""א",0.0799,18,1,image-viewed-selective-collation,raschi,0,Fortsetzung Anabekoach-Tafel mit Sefirot-/Kleidungszuordnungen angesehen.
+161,"עח ע""ב",0.0973,16,0,image-viewed-selective-collation,raschi,0,Schluss der Anabekoach-Tafel und kurze untere צפנה-Glosse angesehen; Hauptgebet Quadratschrift.
+162,"עט ע""א",0.2163,28,3,image-viewed-selective-collation,raschi,0,Einleitung איזהו מקומן und zwei längere Hejchalot-Glossen angesehen. Standardisierte Fachfolgen nicht allein anhand neuer OCR rekonstruieren.
+163,"עט ע""ב",0.188,27,2,image-viewed-selective-collation,raschi,0,Zwei lange Hejchalot-Glossen zwischen Mischna-Absätzen angesehen.
+164,"פ ע""א",0.2237,28,2,image-viewed-selective-collation,raschi,0,Zwei lange Glossen zu זבחי שלמי צבור und התודה ואיל נזיר angesehen.
+165,"פ ע""ב",0.115,13,2,image-viewed-selective-collation,raschi,0,Lange Glosse bei שלמים קדשים und kleine Quellenzeile vor den 13 Regeln angesehen.
+166,"פא ע""א",0.0969,16,3,image-viewed-selective-collation,raschi,0,"13 Regeln, erste neun, mit zahlreichen kleinen Raschi-Zuordnungen angesehen; beschädigte eingebettete Stufenfolgen bleiben offen."
+167,"פא ע""ב",0.1159,16,2,image-viewed-selective-collation,raschi,0,Regeln zehn bis dreizehn mit Glossen und kurze folgende Einleitung angesehen.
+168,"פב ע""א",0.171,33,8,image-viewed-selective-collation,raschi,0,Kadisch-Einleitung und יתגדל/ויתקדש-Anweisungen samt Fußnotenbeginn angesehen. Bisherige Datei zieht Erläuterungen aus PDF 168–171 unter PDF 168 zusammen.
+169,"פב ע""ב",0.1673,14,2,image-viewed-selective-collation,raschi,0,שמיה/רבא-Anweisungen und Fußnotenfortsetzung angesehen; Fußnote bereits unter PDF 168 geführt.
+170,"פג ע""א",0.0645,9,2,image-viewed-selective-collation,raschi,0,"Obere Süßungsanweisung, Diagrammglossen und langer Fußnotenmittelteil angesehen. Fußnotenfolge unter PDF 168 konsolidiert."
+171,"פג ע""ב",0.2278,29,2,image-viewed-selective-collation,raschi,0,"Hauptanweisungen zu den zehn Wörtern, drei Zelem und Milderung sowie Fußnotenabschluss angesehen. Fußnote nicht doppelt ergänzen."
+172,"פד ע""א",0.3144,37,2,image-viewed-selective-collation,raschi,0,"אמן-Absatz, seitliche כח-Erklärung und untere 28-Buchstaben-Anweisung angesehen."
+173,"פד ע""ב",0.2934,35,1,image-viewed-selective-collation,raschi,0,Mehrere Kadisch-/M-B-Anweisungen rechts neben Namenfeldern angesehen; zahlreiche beschädigte Kürzel bleiben markiert.
+174,"פה ע""א",0.2709,31,3,image-viewed-selective-collation,raschi,0,"Kadisch-/M-B-Fortsetzung, untere Anweisungen und zwei Fußnoten angesehen; lange zweite Fußnote physisch auf PDF 175 fortgesetzt, im Text unter PDF 174 zusammengezogen."
+175,"פה ע""ב",0.1902,12,0,image-viewed-selective-collation,raschi,0,אמן-Glosse und unterer langer Fußnotenabschluss angesehen; Fußnote gehört zum unter PDF 174 geführten Text.
+176,"פו ע""א",0.0667,6,0,image-viewed-selective-collation,raschi,0,Zwei kurze Zwischenanweisungen bei יהא/שלמא רבא angesehen. Haupt-Kadisch in Quadratschrift.
+177,לוח הטעויות והתיקונים,0.2779,41,1,image-viewed-selective-collation,raschi,0,Gedruckte Errata-Tabelle vollständig als Tabelle angesehen. Ihre Einträge bleiben als Quellenkorrekturen erhalten; nicht ungeprüft in anders paginierte Haupttextstellen einarbeiten.
