@@ -1,0 +1,260 @@
+{
+  "band": "Teil 2 / HB21375",
+  "etappe_bis_pdf": 50,
+  "scan_seiten_gesamt": 323,
+  "stempelseite": 2,
+  "erwartete_seitenkoepfe_etappe": 49,
+  "vorhandene_seitenkoepfe_etappe": 49,
+  "fehlende_seiten_in_etappe": [],
+  "band_vollstaendig": false,
+  "naechste_pdf": 51,
+  "offene_markierungen": 7,
+  "formale_pruefung": {
+    "1": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "3": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "4": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "5": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "6": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "7": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "8": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    },
+    "9": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 1
+    },
+    "10": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "11": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    },
+    "12": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "13": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    },
+    "14": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    },
+    "15": {
+      "formatfehler": [],
+      "tabellen": 4,
+      "unsicherheiten": 0
+    },
+    "16": {
+      "formatfehler": [],
+      "tabellen": 2,
+      "unsicherheiten": 0
+    },
+    "17": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    },
+    "18": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    },
+    "19": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    },
+    "20": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "21": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "22": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "23": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "24": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "25": {
+      "formatfehler": [],
+      "tabellen": 6,
+      "unsicherheiten": 0
+    },
+    "26": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "27": {
+      "formatfehler": [],
+      "tabellen": 2,
+      "unsicherheiten": 0
+    },
+    "28": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "29": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "30": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "31": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "32": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "33": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "34": {
+      "formatfehler": [],
+      "tabellen": 0,
+      "unsicherheiten": 0
+    },
+    "35": {
+      "formatfehler": [],
+      "tabellen": 1,
+      "unsicherheiten": 0
+    },
+    "36": {
+      "formatfehler": [],
+      "tabellen": 4,
+      "unsicherheiten": 0
+    },
+    "37": {
+      "formatfehler": [],
+      "tabellen": 4,
+      "unsicherheiten": 0
+    },
+    "38": {
+      "formatfehler": [],
+      "tabellen": 4,
+      "unsicherheiten": 1
+    },
+    "39": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 1
+    },
+    "40": {
+      "formatfehler": [],
+      "tabellen": 4,
+      "unsicherheiten": 1
+    },
+    "41": {
+      "formatfehler": [],
+      "tabellen": 4,
+      "unsicherheiten": 0
+    },
+    "42": {
+      "formatfehler": [],
+      "tabellen": 2,
+      "unsicherheiten": 0
+    },
+    "43": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 1
+    },
+    "44": {
+      "formatfehler": [],
+      "tabellen": 4,
+      "unsicherheiten": 1
+    },
+    "45": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    },
+    "46": {
+      "formatfehler": [],
+      "tabellen": 2,
+      "unsicherheiten": 0
+    },
+    "47": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 1
+    },
+    "48": {
+      "formatfehler": [],
+      "tabellen": 5,
+      "unsicherheiten": 0
+    },
+    "49": {
+      "formatfehler": [],
+      "tabellen": 5,
+      "unsicherheiten": 0
+    },
+    "50": {
+      "formatfehler": [],
+      "tabellen": 3,
+      "unsicherheiten": 0
+    }
+  },
+  "hinweis": "Formale Prüfungen belegen die Dateistruktur, nicht die Fehlerfreiheit jeder Lesung. Wortvergleich enthält auch Formatierungsänderungen."
+}
